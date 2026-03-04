@@ -1,375 +1,246 @@
-# Target Keywords & Topic Clusters
+# Hero Network Target Keywords
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
-
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
+This document organizes our keyword research by topic cluster with intent classification. Used by all content agents to guide keyword targeting.
 
 ---
 
-## Topic Cluster Structure
+## Keyword Strategy Overview
 
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
+**Primary Target Audience**: Small business owners, coaches, consultants, founders, and marketing teams who want to create consistent video content without a production crew.
+
+**Content Goal**: Rank for video content creation, video marketing, and professional video production keywords where the intent aligns with removing friction and cost barriers.
+
+**Competitive Approach**: We're a small early-stage company — target long-tail, high-intent, lower-competition terms first. Build content authority before going after broad head terms.
 
 ---
 
-## Cluster 1: Podcast Hosting
+## Pillar Cluster 1: Video Marketing for Small Business
 
-### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
+**Pillar Keyword**: `video marketing for small business`
 
 ### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
+- `how to create video content for small business`
+- `video marketing strategy small business`
+- `small business video content ideas`
+- `affordable video production for small business`
+- `how to make professional videos without a crew`
+- `video content for business owners`
+- `how to start video marketing`
+- `video marketing tips for entrepreneurs`
+- `business video content strategy`
+- `how to create consistent video content`
 
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
+### Long-Tail Variations
+- `how to make business videos with your phone`
+- `video marketing for coaches and consultants`
+- `how to get started with video marketing as a small business`
+- `why small businesses should use video marketing`
+- `video content strategy for solopreneurs`
 
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
-
-### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
-
-### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
+### Intent Classification
+- Informational: "how to create video content" — seeking to learn
+- Commercial: "affordable video production" — evaluating solutions
+- Transactional: "video production service for small business" — ready to buy
 
 ---
 
-## Cluster 2: Podcast Analytics
+## Pillar Cluster 2: Authentic Video Content
 
-### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
+**Pillar Keyword**: `authentic video content`
 
 ### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
+- `how to be authentic on camera`
+- `authentic video marketing`
+- `video content that builds trust`
+- `how to look natural on camera`
+- `conversation-based video content`
+- `thought leadership video content`
+- `how to make video content without a script`
+- `unscripted video marketing`
+- `personal brand video content`
 
-### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
+### Long-Tail Variations
+- `how to stop looking stiff on camera`
+- `why authentic video outperforms polished production`
+- `how to create genuine video content for business`
+- `video without a script tips for business owners`
+- `thought leadership video strategy linkedin`
 
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 3: Podcast Growth
-
-### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
-
-### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
-
-### Related Questions
-[Add PAA questions]
+### Intent Classification
+- Informational: "how to be authentic on camera"
+- Commercial: "authentic video production service"
 
 ---
 
-## Cluster 4: Podcast Monetization
+## Pillar Cluster 3: LinkedIn Video Content
 
-### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+**Pillar Keyword**: `linkedin video content strategy`
 
-### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
+### Cluster Keywords (Subtopics)
+- `how to post video on linkedin`
+- `linkedin video marketing tips`
+- `linkedin video best practices`
+- `how to grow on linkedin with video`
+- `linkedin video content ideas for business`
+- `linkedin thought leadership video`
+- `how often to post video on linkedin`
+- `linkedin native video vs youtube link`
+- `best video length for linkedin`
 
-### Long-Tail Keywords
-[Add 10-15 variations]
+### Long-Tail Variations
+- `linkedin video strategy for founders`
+- `how to build linkedin audience with video`
+- `linkedin video content for consultants`
+- `linkedin video engagement tips 2025`
+- `thought leadership video on linkedin examples`
 
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 5: Starting a Podcast
-
-### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
-
-### Long-Tail Keywords
-[Add variations]
-
-### Related Questions
-[Add PAA questions]
+### Intent Classification
+- Informational dominant: "how to post", "best practices", "content ideas"
+- Commercial: "linkedin video production service"
 
 ---
 
-## Cluster 6: [Additional Cluster]
+## Pillar Cluster 4: Video Production Without a Crew
 
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
+**Pillar Keyword**: `professional video without a production crew`
 
----
+### Cluster Keywords (Subtopics)
+- `how to make professional videos at home`
+- `video production alternatives to agencies`
+- `low cost video production`
+- `cheap video production for business`
+- `video production service affordable`
+- `outsource video editing`
+- `video editing service for business`
+- `how to outsource video editing`
+- `remote video production`
 
-## Seasonal/Trending Keywords
+### Long-Tail Variations
+- `how to make professional video with smartphone`
+- `alternatives to hiring a video production company`
+- `affordable video editing service for small business`
+- `outsource video editing for content creators`
+- `video editing service for youtube`
+- `done-for-you video content creation`
 
-### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
-
-### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
-
-### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
-
-### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
+### Intent Classification
+- Commercial dominant: actively evaluating alternatives
+- Transactional: "video editing service" — ready to buy
 
 ---
 
-## Competitor Keyword Gaps
+## Pillar Cluster 5: Smartphone Video Production
 
-Track keywords where competitors rank but Castos doesn't:
+**Pillar Keyword**: `smartphone video production`
 
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
+### Cluster Keywords (Subtopics)
+- `how to record professional video on iphone`
+- `best way to record video on phone for business`
+- `phone video production tips`
+- `how to improve video quality on smartphone`
+- `iphone video for business`
+- `android video for business`
+- `professional looking video with phone`
+- `phone video lighting tips`
+- `how to record a talking head video on phone`
 
-[Add more competitors and gaps]
+### Long-Tail Variations
+- `how to film professional looking video with iphone`
+- `phone setup for recording business video`
+- `talking head video tips for non-video people`
+- `how to look professional on a phone camera`
 
----
-
-## Keyword Opportunity Pipeline
-
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
-
-### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
-
-### Low Priority (Future Consideration)
-[List keywords for future content planning]
+### Intent Classification
+- Informational: setup and tips
+- Commercial: looking for tools or services to help
 
 ---
 
-## Keyword Tracking & Performance
+## Pillar Cluster 6: Video Content for Coaches and Consultants
 
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
+**Pillar Keyword**: `video content for coaches`
 
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
+### Cluster Keywords (Subtopics)
+- `how to use video marketing as a coach`
+- `video content ideas for consultants`
+- `thought leadership video for coaches`
+- `how to build audience as a coach using video`
+- `consulting firm video content strategy`
+- `video marketing for service businesses`
+- `how to attract clients with video`
+- `personal brand video for consultants`
 
-[List current winners]
+### Long-Tail Variations
+- `video content strategy for business coaches`
+- `how coaches use linkedin video to get clients`
+- `video content ideas for executive coaches`
+- `video marketing for consulting businesses`
 
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
+### Intent Classification
+- Informational and commercial mix
 
 ---
 
-## LSI & Semantic Keywords
+## BOFU (Bottom of Funnel) Keywords
 
-Common related terms to include across podcasting content:
+These are high-intent keywords signaling readiness to evaluate or purchase.
 
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
-
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
+- `video production service for small business`
+- `outsource video production`
+- `video editing service for business owners`
+- `done for you video content`
+- `video content creation service`
+- `professional video editing service`
+- `remote video production platform`
+- `affordable video production service`
+- `video marketing service`
 
 ---
 
-## Usage Guidelines
+## Competitor / Alternative Keywords
 
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
-
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
-
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
+- `wistia alternatives for small business`
+- `descript alternatives`
+- `video production agency alternatives`
+- `opus clip alternatives`
+- `vidyard alternatives small business`
 
 ---
 
-## Maintenance
+## Negative / Avoid Keywords
 
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
+These are high-volume terms we shouldn't chase — wrong audience or too competitive.
 
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
+- `youtube channel` (creator audience, not business)
+- `video editing software` (DIY, not our product)
+- `film production` (wrong industry entirely)
+- `music video production` (wrong context)
+- `wedding videography` (wrong vertical)
+- `stock video` (wrong context)
+- `video game` (obvious)
 
 ---
 
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+## Current Rankings
+
+*To be populated once Google Search Console is connected and heronetwork.io has indexed blog content.*
+
+| Keyword | Position | URL | Last Checked |
+|---------|----------|-----|--------------|
+| TBD | — | — | — |
+
+---
+
+## Content Gaps (Priority Opportunities)
+
+Based on what competitors are ranking for that we don't have content for yet:
+
+1. "How to start video marketing" — high volume, informational, perfect for us
+2. "Video content ideas for small business" — popular listicle format
+3. "How to look good on camera" — emotional barrier we address directly
+4. "LinkedIn video strategy" — our primary distribution channel for leads
+5. "How to outsource video editing" — direct purchase intent
+
+---
+
+*Update this file quarterly with new keyword research. Add rankings once GSC is connected.*

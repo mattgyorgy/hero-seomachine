@@ -1,0 +1,96 @@
+{
+  "direct_competitors": [
+    "descript.com",
+    "opus.pro",
+    "vidyard.com",
+    "wistia.com",
+    "loom.com"
+  ],
+  "content_competitors": [
+    "hubspot.com/marketing",
+    "buffer.com/resources",
+    "sproutsocial.com/insights",
+    "socialmediaexaminer.com",
+    "neilpatel.com"
+  ],
+  "bofu_keywords": [
+    "video production service for small business",
+    "outsource video editing",
+    "done for you video content",
+    "video content creation service",
+    "remote video production",
+    "affordable video production",
+    "video editing service for business",
+    "hero network pricing",
+    "hero network review",
+    "descript alternatives",
+    "opus clip alternatives",
+    "video production agency alternatives"
+  ],
+  "mofu_keywords": [
+    "how to create video content for small business",
+    "video marketing strategy small business",
+    "how to make professional videos without a crew",
+    "linkedin video strategy",
+    "how to outsource video editing",
+    "authentic video marketing",
+    "video content for coaches and consultants",
+    "how to be consistent with video content",
+    "smartphone video production tips"
+  ],
+  "alternative_keywords": [
+    "descript alternatives",
+    "opus clip alternatives",
+    "vidyard alternatives",
+    "video production agency alternatives",
+    "loom alternatives for business"
+  ],
+  "key_queries": [
+    "video marketing for small business",
+    "outsource video editing",
+    "authentic video content",
+    "linkedin video strategy",
+    "remote video production"
+  ],
+  "relevant_terms": [
+    "video marketing",
+    "video content",
+    "video production",
+    "video editing",
+    "authentic video",
+    "smartphone video",
+    "linkedin video",
+    "thought leadership video",
+    "small business video",
+    "outsource",
+    "done-for-you",
+    "professional",
+    "editing",
+    "production",
+    "authentic",
+    "consistent"
+  ],
+  "skip_terms": [
+    "celebrity",
+    "net worth",
+    "biography",
+    "dating",
+    "reddit",
+    "gaming",
+    "music video",
+    "wedding",
+    "film festival",
+    "stock footage",
+    "drone footage"
+  ],
+  "topic_patterns": {
+    "Video Marketing": ["video marketing", "video content", "video strategy", "video campaign"],
+    "Production": ["video production", "video editing", "outsource", "done for you", "editing service"],
+    "Authentic Video": ["authentic", "unscripted", "conversation", "natural on camera", "real"],
+    "Platform Specific": ["linkedin video", "youtube video", "instagram video", "tiktok video"],
+    "How-To": ["how to", "guide", "tips", "tutorial", "step by step"],
+    "Comparisons": ["vs", "versus", "compare", "comparison", "alternative", "best"],
+    "Small Business": ["small business", "entrepreneur", "founder", "consultant", "coach", "solopreneur"],
+    "Pricing/Cost": ["affordable", "cheap", "cost", "price", "pricing", "budget"]
+  }
+}

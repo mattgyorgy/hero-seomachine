@@ -1,291 +1,278 @@
-# [YOUR COMPANY] Brand Voice & Messaging
+# Hero Network Brand Voice & Messaging
 
-<!-- INSTRUCTIONS: This template defines your brand voice, tone, and messaging framework.
-     Fill in all [BRACKETED] sections with your company's specific information.
-     Delete these instruction comments when done.
-     See examples/castos/ for a complete real-world example. -->
-
-This document defines the [YOUR COMPANY] brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+This document defines the Hero Network brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
 
 ## Brand Voice Pillars
 
-<!-- INSTRUCTIONS: Define 3-5 voice pillars that capture your brand's personality.
-     Each pillar should include:
-     - What it means (the concept)
-     - How it sounds (the execution)
-     - Example (a sentence in your voice)
-     - Avoid (what NOT to do)
--->
+### 1. Authentic Over Polished
+- **What it means**: Real is better than perfect. Rough edges are human signals, not flaws. We believe conversation beats performance.
+- **How it sounds**: Direct, honest, unpretentious. We don't dress things up. We say what's true.
+- **Example**: "Most video content fails because it's trying too hard to look professional. The camera can tell."
+- **Avoid**: Marketing speak, hype, "game-changing" language, breathless excitement, false polish.
 
-### 1. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept of this voice characteristic]
-- **How it sounds**: [Describe how this comes across in writing - tone, style, approach]
-- **Example**: "[Write an example sentence that demonstrates this voice pillar]"
-- **Avoid**: [List what to avoid - opposite tones, styles, or approaches]
+### 2. Practical Philosophy
+- **What it means**: Big ideas grounded in real application. We think about first principles AND show the actual workflow.
+- **How it sounds**: Thoughtful but specific. References real tools, real processes, real numbers.
+- **Example**: "The problem isn't your camera. It's that hitting record still feels like stepping on stage."
+- **Avoid**: Vague inspiration without action steps. Generic advice that could apply to any business.
 
-### 2. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 3. Friction Is the Real Enemy
+- **What it means**: The video production industry built unnecessary barriers—expensive gear, crews, scripted performances. We remove them.
+- **How it sounds**: Problem-aware, not preachy. Names the specific friction, then offers the path through.
+- **Example**: "That's not a video problem. It's a friction problem. And friction is solvable."
+- **Avoid**: Blaming the user, implying they're lazy or wrong. The friction is structural, not personal.
 
-### 3. [VOICE PILLAR NAME]
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 4. Execution Over Ideation
+- **What it means**: Ideas are cheap. Showing up consistently is the differentiator. Consistency beats perfection.
+- **How it sounds**: Grounded in doing, not dreaming. Action-oriented. Respects the reader's time.
+- **Example**: "Most business owners know video works. The gap is the 3 feet between knowing and hitting record."
+- **Avoid**: Long theoretical discussions without a clear next step. Overcomplicating simple actions.
 
-### 4. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+### 5. Human-First Technology
+- **What it means**: AI is leverage, not replacement. Human editing judgment and authentic conversation are irreplaceable.
+- **How it sounds**: Clear-eyed about what technology can and can't do. Excited about tools, honest about limitations.
+- **Example**: "We use AI to make editing faster. We still use human editors to make it good."
+- **Avoid**: Tech hype, AI-washing, implying robots replace humans. Fake automation promises.
 
-### 5. [VOICE PILLAR NAME] (Optional)
-- **What it means**: [Explain the core concept]
-- **How it sounds**: [Describe the execution]
-- **Example**: "[Example sentence]"
-- **Avoid**: [What to avoid]
+---
 
 ## Tone Guidelines
 
-### General Tone: [DESCRIBE YOUR GENERAL TONE]
-[Write a paragraph describing your overall tone. Example: "Imagine you're an experienced [expert in your field] helping a friend succeed. You know what you're talking about, you genuinely want them to succeed, and you explain things clearly without being patronizing."]
+### General Tone: Direct, Thoughtful, Unpretentious
+Imagine a founder who built something they genuinely believe in and is talking shop with someone who gets it. No pitch deck energy. No venture-capital speak. Just honest conversation about a real problem and how to solve it. We know video. We know the friction. We know what authentic looks like—and what it doesn't.
 
 ### Tone Variations by Content Type
 
-<!-- INSTRUCTIONS: Define how your tone shifts for different content types.
-     Include example phrases for each type. -->
+**How-To Guides**: Clear, step-by-step, specific. Respects reader's time.
+- "Here's exactly how to record a video that doesn't feel forced."
+- "Three questions to ask before you hit record."
+- "If it sounds like a script, it is. Here's how to fix that."
 
-**How-To Guides**: [Adjectives describing tone for tutorials]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Strategy/Advice Content**: Philosophical + practical. Names the real problem.
+- "Video marketing isn't about production quality. It's about consistency."
+- "The businesses winning on video aren't the ones with the best cameras."
+- "Most companies treat video like a campaign. Treat it like a conversation."
 
-**Strategy/Advice Content**: [Adjectives describing tone for strategic content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Industry News/Trends**: Analytical, grounded, specific. Warns against hype.
+- "Synthetic video is getting good. That makes authentic video more valuable, not less."
+- "AI video tools are removing cost barriers—which raises the question of what's worth creating."
+- "The production industry built artificial barriers. Now they're dissolving."
 
-**Industry News/Trends**: [Adjectives describing tone for news/trends]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+**Product/Feature Content**: Benefit-led, specific, honest about tradeoffs.
+- "You record from your phone. Our editors handle the rest."
+- "Human editing means someone who's watched 10,000 videos decides what stays."
+- "Polished output from authentic input. That's the whole model."
 
-**Product/Feature Content**: [Adjectives describing tone for product content]
-- "[Example phrase 1]"
-- "[Example phrase 2]"
-- "[Example phrase 3]"
+---
 
 ## Messaging Framework
 
 ### Core Brand Messages
 
-<!-- INSTRUCTIONS: Define 3-5 core messages that should be woven throughout your content.
-     Each message should include the concept, key points, and when to use it. -->
-
-#### Message 1: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 1: Conversation Beats Performance
+- **Concept**: Authentic conversation is more compelling than scripted, produced content—and most people already know how to have a conversation.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - The best video content looks like a genuine conversation, not a commercial
+  - Performance anxiety is the #1 reason people don't create video
+  - You already know how to talk. That's the skill.
+- **Usage**: When writing about video creation, content strategy, thought leadership video
 
-#### Message 2: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 2: Friction Is Solvable
+- **Concept**: The barriers to video aren't talent or ideas—they're structural friction that Hero Network removes.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Expensive gear, crews, and editing are legacy barriers, not requirements
+  - The smartphone in your pocket is a production studio
+  - Professional output doesn't require a professional setup
+- **Usage**: When comparing to traditional video production, addressing objections about quality
 
-#### Message 3: [MESSAGE TITLE]
-- **Concept**: [One sentence describing the core message]
+#### Message 3: Consistency Over Perfection
+- **Concept**: Showing up weekly with authentic, good-enough content outperforms the perfect video you never published.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Done is better than perfect in video content
+  - The algorithm rewards consistency, not production value
+  - Your audience builds trust through repetition, not spectacle
+- **Usage**: When addressing perfectionism, content cadence, why people stop creating video
 
-#### Message 4: [MESSAGE TITLE] (Optional)
-- **Concept**: [One sentence describing the core message]
+#### Message 4: Human Editing Is the Differentiator
+- **Concept**: AI handles the mechanical work; human editors apply judgment that makes content genuinely good.
 - **Key Points**:
-  - [Supporting point 1]
-  - [Supporting point 2]
-  - [Supporting point 3]
-- **Usage**: When discussing [topics/situations where this message applies]
+  - Real editors who've watched thousands of videos know what to cut
+  - Judgment can't be automated—tone, pacing, what lands, what doesn't
+  - The combination of ease of capture + human editing produces the best outcome
+- **Usage**: When differentiating from DIY tools, addressing quality concerns
 
 ### Value Propositions
 
-<!-- INSTRUCTIONS: Write specific value propositions for each of your key customer segments.
-     These should be 1-2 sentence statements that capture the core benefit for each audience. -->
+**For Small Business Owners**:
+"You know video works. We remove every excuse not to do it. You talk. We make it look good."
 
-**For [TARGET SEGMENT 1]**:
-"[Value proposition for this segment]"
+**For Coaches and Consultants**:
+"Your expertise deserves to be seen. Record a conversation from your phone. We handle the rest."
 
-**For [TARGET SEGMENT 2]**:
-"[Value proposition for this segment]"
+**For Marketing Teams**:
+"Create authentic video content at the volume you need without hiring a production crew."
 
-**For [TARGET SEGMENT 3]**:
-"[Value proposition for this segment]"
+**For Founders and Executives**:
+"Thought leadership video shouldn't require a film crew. Record your perspective. We make it publish-ready."
 
-**For [TARGET SEGMENT 4]** (Optional):
-"[Value proposition for this segment]"
-
-**For [TARGET SEGMENT 5]** (Optional):
-"[Value proposition for this segment]"
+---
 
 ## Writing Style Guidelines
 
 ### Sentence Structure
-- **Vary length**: [Your preference - e.g., "Mix short punchy sentences with longer explanatory ones"]
-- **Active voice preferred**: [Example] not [Counter-example]
-- **Average length**: [X-Y words per sentence]
-- **Clarity first**: [Your rule about clarity and readability]
+- **Vary length**: Short punchy sentences for emphasis. Longer sentences for context and explanation. Then short again for the punch.
+- **Active voice**: "We remove friction" not "Friction is removed by us"
+- **Average length**: 12-18 words per sentence
+- **Clarity first**: If you have to read it twice to understand it, rewrite it
 
 ### Paragraph Structure
-- **Length**: [X-Y sentences typically]
-- **One idea per paragraph**: [Your approach to paragraph focus]
-- **Transitions**: [How you handle paragraph transitions]
-- **White space**: [Your approach to visual readability]
+- **Length**: 2-3 sentences max for blog content
+- **One idea per paragraph**: Don't stack multiple points
+- **Transitions**: Move through ideas naturally; use questions to shift sections
+- **White space**: Err on the side of more white space. Dense blocks signal corporate writing.
 
 ### Word Choice
-- **[CHARACTERISTIC 1]**: [Describe your word choice style - e.g., "Conversational: Write how you'd speak to a colleague"]
-- **[CHARACTERISTIC 2]**: [e.g., "Specific: '40% improvement' not 'Better performance'"]
-- **[CHARACTERISTIC 3]**: [e.g., "Active verbs: 'Launch', 'Create', 'Grow', 'Build'"]
-- **[WHAT TO AVOID]**: [e.g., "Avoid fluff: Cut 'very', 'really', 'actually' unless needed"]
+- **Conversational**: Write how a smart, experienced person would explain it to a peer
+- **Specific**: "40% fewer edits" not "significant time savings"
+- **Active verbs**: "Record", "ship", "build", "remove", "cut", "capture"
+- **Avoid fluff**: Cut "very", "really", "truly", "incredibly", "revolutionary", "game-changing"
 
 ### Terminology
 
-<!-- INSTRUCTIONS: Define industry-specific terminology preferences.
-     List preferred terms vs. terms to avoid. -->
-
 **Say This** → **Not That**
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
-- [Preferred term] → [Term to avoid] ([Reason why])
+- Authentic video → Professional video (implies unattainable standard)
+- Record a conversation → Shoot a video (implies production complexity)
+- Human editing → AI editing (we're not that—precision matters)
+- Video content → Video production (production implies over-engineering)
+- Friction → Barriers (friction is solvable; barriers feel permanent)
+- Show up consistently → Go viral (we're not promising virality)
+- Smartphone → Camera setup (smartphone removes friction; camera setup adds it)
+
+---
 
 ## Content Formatting
 
 ### Headlines
-- **[RULE 1]**: [e.g., "Be specific: 'How to Grow Your Audience in 2025' not 'Growth Tips'"]
-- **[RULE 2]**: [e.g., "Include benefit: Tell reader what they'll gain"]
-- **[RULE 3]**: [e.g., "Use numbers: '7 Ways...' or 'Complete Guide...'"]
-- **[RULE 4]**: [e.g., "Keep concise: 60 characters or less for SEO"]
+- **Be specific**: "How to Record Video From Your Phone That Doesn't Look Amateurish" not "Video Tips"
+- **Include the real problem**: Address the friction or fear directly
+- **Use numbers when natural**: "5 Reasons Your Video Content Looks Overproduced" works
+- **Keep concise**: 60 characters or less for SEO; lead with the benefit
 
 ### Subheadings
-- **[RULE 1]**: [Your subheading guidelines]
-- **[RULE 2]**: [Your subheading guidelines]
-- **[RULE 3]**: [Your subheading guidelines]
-- **[RULE 4]**: [Your subheading guidelines]
+- **Ask questions**: "What Does Authentic Video Actually Look Like?"
+- **Name the real issue**: "The Friction Problem Nobody Talks About"
+- **Describe the outcome**: "Why Consistency Beats a Perfect Production Schedule"
+- **Be scannable**: Someone should be able to understand the article from headings alone
 
 ### Lists
-- **[RULE 1]**: [Your list formatting guidelines]
-- **[RULE 2]**: [Your list formatting guidelines]
-- **[RULE 3]**: [Your list formatting guidelines]
-- **[RULE 4]**: [Your list formatting guidelines]
+- **Use bullets for tactics/tools**: When listing actionable items
+- **Keep parallel structure**: All bullets should match grammatically
+- **Maximum 5-7 items**: Longer lists dilute impact
+- **No bullet-point summaries at the end**: Don't summarize what you just said
 
 ### Calls-to-Action
-- **[RULE 1]**: [Your CTA guidelines]
-- **[RULE 2]**: [Your CTA guidelines]
-- **[RULE 3]**: [Your CTA guidelines]
-- **[RULE 4]**: [Your CTA guidelines]
+- **Specific**: "Start your first project" not "Get started"
+- **Low friction**: Match the CTA to where the reader is in their journey
+- **One per article**: Don't stack multiple CTAs
+- **Founder Pricing framing**: "$79/mo—locked in while you're early"
+
+---
 
 ## Voice Examples
 
-<!-- INSTRUCTIONS: Provide examples of your voice in action, showing both good and bad examples. -->
+### Excellent Hero Network Voice ✅
 
-### Excellent [YOUR COMPANY] Voice ✅
+"Most business owners know video works. They've watched a competitor grow their audience with weekly recordings from a desk. They know the ROI. They've budgeted for it.
 
-"[Write a full paragraph example that demonstrates your brand voice at its best.
+And then they open the camera app and freeze.
 
-This should include multiple sentences that show your tone, style, word choice, and approach.
+It's not a knowledge problem. It's not a skill problem. It's friction—the gap between knowing you should and actually hitting record. That gap is what we built Hero Network to close.
 
-Reference your actual product/service and target audience.]"
+You talk. We edit. You show up consistently. That's the whole system."
 
 **Why this works**:
-- [Reason 1 - what makes this good]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
+- Opens with a true, specific observation the reader recognizes
+- Identifies the emotional reality (freezing at the camera app)
+- Names the actual problem (friction, not skill)
+- Delivers the solution in plain language
+- Short sentences drive the rhythm
+- No buzzwords, no corporate speak
 
-### Not [YOUR COMPANY] Voice ❌
+### Not Hero Network Voice ❌
 
-"[Write a full paragraph example that demonstrates what NOT to do.
-
-This should show common mistakes: wrong tone, corporate speak, feature-focused instead of benefit-focused, etc.
-
-This example shows what to avoid.]"
+"In today's digital landscape, video content has emerged as a crucial driver of brand awareness and engagement. Hero Network's innovative platform leverages cutting-edge technology to revolutionize the video production experience, enabling businesses to create high-quality content at scale. Our comprehensive solution addresses the multifaceted challenges of modern content creation while delivering exceptional ROI."
 
 **Why this fails**:
-- [Reason 1 - what makes this bad]
-- [Reason 2]
-- [Reason 3]
-- [Reason 4]
-- [Reason 5]
+- "Digital landscape", "cutting-edge", "revolutionize" are noise
+- Passive, vague, could describe any SaaS product
+- Feature-focused instead of friction-focused
+- No specificity, no real insight
+- Sounds like it was written by a committee
+
+---
 
 ## Audience Understanding
 
 ### Who We Write For
 
-<!-- INSTRUCTIONS: Define your target audience(s) in detail. -->
-
-**Primary Audience**: [PRIMARY AUDIENCE NAME/DESCRIPTION]
-- [Characteristic 1]
-- [Characteristic 2]
-- [Characteristic 3]
-- [Characteristic 4]
-- [Characteristic 5]
+**Primary Audience**: Small and medium business owners, coaches, consultants, and founders who understand that video content matters but haven't made it a consistent habit.
+- They're not camera-shy by nature—they're friction-blocked
+- They have real expertise worth sharing
+- They're already creating content in other formats (email, LinkedIn text posts)
+- They've tried video before and it felt harder than it should
+- They value authenticity and would never script a sales conversation
 
 **Secondary Audiences**:
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
-- **[SEGMENT NAME]**: [Brief description]
+- **Marketing managers at small teams**: Need volume without a production crew budget
+- **Executives and thought leaders**: Want to be visible but not on camera every week with full production
+- **Content creators scaling up**: DIY tools aren't producing professional enough output
+- **Agency/production companies**: Looking for a more efficient client workflow
 
 ### What They Care About
 
 **Top Priorities**:
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
-4. [Priority 4]
-5. [Priority 5]
+1. Not wasting time on something that won't work
+2. Looking credible and professional without a production setup
+3. Building an audience without burning out on content creation
+4. Getting consistent output without a content team
+5. Staying authentic—not turning into a "content person"
 
 **Pain Points**:
-1. [Pain point 1]
-2. [Pain point 2]
-3. [Pain point 3]
-4. [Pain point 4]
-5. [Pain point 5]
+1. Video takes too long to produce vs. writing
+2. They hate how they look and sound on camera
+3. Past attempts at video were inconsistent and unmemorable
+4. Production quality feels unprofessional compared to big brands
+5. Not sure what to say or how to structure it
 
 ### How to Serve Them
 
-- **[PRINCIPLE 1]**: [How you serve your audience - e.g., "Respect their time: Get to the point quickly"]
-- **[PRINCIPLE 2]**: [e.g., "Make it actionable: Give specific, implementable advice"]
-- **[PRINCIPLE 3]**: [e.g., "Explain the 'why': Help them understand strategy, not just tactics"]
-- **[PRINCIPLE 4]**: [e.g., "Acknowledge challenges: Show we understand their work"]
-- **[PRINCIPLE 5]**: [e.g., "Celebrate progress: Encourage incremental improvement"]
+- **Respect their time**: Get to the point. They're busy operators, not content strategists.
+- **Name the friction explicitly**: Make them feel seen. Yes, the camera is intimidating. That's real.
+- **Make it actionable**: Every piece of content should end with one thing they can do.
+- **Show don't tell**: Use examples, case studies, and specific scenarios—not vague encouragement.
+- **Acknowledge complexity**: Don't pretend it's all easy. The first video is always the hardest. That's true.
+
+---
 
 ## Quality Checklist
 
 Before publishing any content, verify:
 
-- [ ] **Voice**: Sounds like [YOUR COMPANY] ([your key voice characteristics])
-- [ ] **Tone**: Appropriate for content type and audience stage
-- [ ] **Value**: Provides genuine, actionable insights for [YOUR AUDIENCE]
-- [ ] **Clarity**: Complex concepts explained simply
-- [ ] **Accuracy**: Technical information is correct
-- [ ] **Examples**: Includes relevant [industry/use case] scenarios
-- [ ] **Action**: Clear next steps or takeaways
-- [ ] **Messaging**: Aligns with core brand messages
-- [ ] **Terminology**: Uses correct [industry] terms
-- [ ] **Empowerment**: Helps [audience] feel capable and confident
+- [ ] **Voice**: Sounds direct, thoughtful, and friction-aware—not corporate or hype-y
+- [ ] **Tone**: Appropriate for content type; how-to is practical, strategy is philosophical
+- [ ] **Value**: Provides a real insight or solves a real problem for the reader
+- [ ] **Clarity**: Complex concepts explained simply; no jargon without explanation
+- [ ] **Accuracy**: Claims about video, production, and results are factually grounded
+- [ ] **Examples**: Includes specific scenarios that the target audience will recognize
+- [ ] **Action**: Has one clear takeaway or next step
+- [ ] **Messaging**: Connects to at least one of the four core messages
+- [ ] **Terminology**: Uses preferred language (authentic, friction, conversation—not production, viral, game-changing)
+- [ ] **Empowerment**: Reader feels like they can do this—not like they need a film crew
 
 ---
 
-**Remember**: [Write a memorable closing statement that captures the essence of your brand voice and mission. Example: "Every piece of content should make our audience feel more capable and confident. We're not just providing information—we're empowering success."]
+**Remember**: Every piece of content should make the reader feel like video is more doable than they thought. We're not selling complexity. We're removing it.
+
+---
+
+*This file was created for Hero Network's SEO content machine. Update it as the brand evolves or new positioning emerges.*

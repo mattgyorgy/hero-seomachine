@@ -1,154 +1,141 @@
-# [YOUR COMPANY] Writing Examples
+# Hero Network Writing Examples
 
-<!-- INSTRUCTIONS: This file should contain 3-5 exemplary blog posts that demonstrate your brand voice,
-     style, and quality standards. These examples help Claude understand how to write in your voice.
+This file contains exemplary writing samples that capture the Hero Network brand voice and style. Use these as reference when writing all blog content.
 
-     Copy and paste complete articles from your blog that represent your best work.
-     See examples/castos/writing-examples.md for a real-world example with 5 full articles.
-
-     Delete these instruction comments when done. -->
-
-This file contains exemplary blog posts from [YOUR COMPANY] that demonstrate the brand voice, style, and quality standards. Use these as reference when writing new content.
-
-## Instructions for Adding Examples
-
-Add 3-5 complete blog post examples from your blog that represent:
-1. The ideal brand voice and tone
-2. Strong SEO optimization
-3. High-quality, valuable content
-4. Proper structure and formatting
-5. Effective use of examples and data
-
-For each example, include:
-- **URL**: Link to the original post
-- **Title**: Full headline
-- **Primary Keyword**: Target keyword for that article
-- **Word Count**: Approximate length
-- **Publication Date**: When it was published
-- **What Makes It Great**: 2-3 specific reasons this is an exemplary post
-- **Full Content**: The complete article text (at least 1,500+ words)
+**Note**: Hero Network has no published blog content yet (March 2026). The examples below are draft samples written to match the brand voice. When real blog articles are published and proven to perform, replace these with the actual published pieces.
 
 ---
 
-## Example 1: [ARTICLE TITLE]
+## Example 1: Introduction Hook — Problem/Friction Frame
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1: e.g., "Thorough explanation of complex topic with clear examples"]
-- [Reason 2: e.g., "Perfect balance of expertise and accessibility"]
-- [Reason 3: e.g., "Strong internal linking and clear CTAs"]
-
-**Full Content**:
-```
-[PASTE YOUR COMPLETE ARTICLE TEXT HERE]
-
-Include:
-- Full introduction
-- All main sections with subheadings
-- Examples, data, quotes
-- Lists and formatting
-- Conclusion and CTA
-
-This should be at least 1,500+ words to give Claude enough content
-to understand your writing style, voice, and structure.
-```
+**Content type**: Blog post intro
+**Topic**: Why business owners don't create video
 
 ---
 
-## Example 2: [ARTICLE TITLE]
+Most business owners know video works.
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
+They've watched a competitor build an audience posting weekly recordings from a desk. They've seen the engagement numbers. Some have even put a "start video content" line item in the budget.
 
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
+Then they open the camera app and don't record.
 
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
+It's not a talent problem. Most of these people are genuinely compelling when they talk about their industry — in a meeting, on a call, at an event. The camera doesn't change what they know. It changes how they feel.
+
+That's not a content strategy problem. It's a friction problem. And friction is solvable.
 
 ---
 
-## Example 3: [ARTICLE TITLE]
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
+**Why this works**:
+- Opens with a true observation the reader immediately recognizes
+- Describes the exact moment of failure (opening the camera app)
+- Acknowledges the emotional reality without being dismissive
+- Reframes the problem from personal failure to structural friction
+- Ends with an empowering sentence that sets up the rest of the article
+- No buzzwords, no hype, no corporate language
 
 ---
 
-## Example 4: [ARTICLE TITLE] (Optional but Recommended)
+## Example 2: How-To Opening — Practical and Direct
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
+**Content type**: How-to guide intro
+**Topic**: Recording your first business video
 
 ---
 
-## Example 5: [ARTICLE TITLE] (Optional but Recommended)
+Recording your first business video is awkward. That's not a flaw in the process — that's the process.
 
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
+The first few times, you'll notice the camera. You'll speed through your sentences. You'll finish and immediately wonder why your voice sounds like that.
 
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
+None of that matters.
 
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
+What matters is that you recorded. Because the second one is easier. And by the fifth, you stop thinking about it altogether.
+
+Most business owners never get past the first three. They record once, cringe, decide it "didn't come out right," and wait for better conditions. Conditions don't get better. Reps do.
+
+Here's how to get through the first five videos faster — so you can get to the ones that actually build your audience.
 
 ---
 
-## Tips for Selecting Good Examples
+**Why this works**:
+- Acknowledges the awkwardness upfront (most how-tos pretend it's easy — this builds trust)
+- Short sentences create rhythm and momentum
+- "Conditions don't get better. Reps do." — memorable, repeatable insight
+- The promise at the end tells the reader exactly what they'll get
+- Doesn't mention Hero Network in the intro — earns the product mention later
 
-1. **Diverse Topics**: Choose articles covering different aspects of your business/industry
-2. **Different Formats**: Include how-to guides, listicles, thought leadership, etc.
-3. **High Performers**: Pick articles that rank well or get good engagement
-4. **Representative**: Choose posts that truly reflect your desired voice and quality
-5. **Recent**: Prefer newer articles that reflect your current brand voice
+---
 
-## Quick Start
+## Example 3: Comparison Content — Honest Differentiation
 
-If you don't have published blog content yet, you can:
-1. Write 1-2 sample articles in your desired voice
-2. Include competitor articles you admire (clearly labeled)
-3. Add these as you publish new content
-4. Reference industry-standard examples with your voice notes
+**Content type**: Comparison or "should you" article
+**Topic**: Video editing software vs. outsourcing
 
-**Remember**: The more complete and representative your examples, the better Claude will understand and replicate your writing style.
+---
+
+Here's what video editing software doesn't tell you on the pricing page: it's not about the software.
+
+Tools like Descript are genuinely good at what they do. AI filler word removal is useful. Transcription-based editing saves time.
+
+But the time it saves is still your time.
+
+When you outsource video editing, the decision of what to cut, what to keep, and how to pace a three-minute talking-head video moves completely off your plate. That's different from a faster version of doing it yourself.
+
+For content creators who want control over every cut, DIY editing software is the right answer.
+
+For business owners who want to record a weekly video and have it show up polished two days later, the better question isn't which tool to use. It's whether you want to use a tool at all.
+
+---
+
+**Why this works**:
+- Acknowledges competitors honestly — doesn't dismiss them, which builds credibility
+- Draws a clear distinction between two valid approaches
+- Lets the reader self-select — we're not right for everyone, and saying so is trustworthy
+- Ends with a reframe ("the better question") that positions Hero Network without naming it yet
+- No bad-mouthing, just honest differentiation
+
+---
+
+## Example 4: Statistical/Claim Integration
+
+**Content type**: Body section within a larger article
+**Topic**: Why video builds trust faster than text
+
+---
+
+Text content tells your audience what you know. Video shows them who you are.
+
+That distinction matters more than it sounds. Studies consistently show that people form judgments about trustworthiness within seconds of seeing a face — long before anything has been said. That same mechanism that works in a sales meeting works on a LinkedIn feed.
+
+A written post, no matter how well-crafted, can't replicate that. It can demonstrate expertise. It can be witty, insightful, helpful. What it can't do is let someone see your face, hear your cadence, and decide whether they trust you.
+
+That's not a criticism of text. It's just what video does that text can't.
+
+For businesses where trust drives conversions — coaching, consulting, professional services, high-ticket products — that's not a small difference. It's the whole ballgame.
+
+---
+
+**Why this works**:
+- Opens with a memorable contrast ("tells" vs. "shows")
+- References research without over-citing — grounded but not academic
+- Acknowledges the value of text rather than dismissing it (nuanced = trustworthy)
+- Gets specific about the audience ("coaching, consulting, professional services")
+- Ends with emphasis without hyperbole ("the whole ballgame" is confident, not breathless)
+
+---
+
+## Key Takeaways for Voice and Structure
+
+From the examples above:
+
+1. **Start in the middle of the thought** — no warm-up, no "In this article we'll discuss..."
+2. **Name the real friction** before offering the solution — makes the reader feel seen
+3. **Short paragraphs, varied sentence length** — 2-3 sentences max, then line break
+4. **Use "you"** — write directly to the reader, not at them
+5. **Specific beats general** — "opening the camera app" is more resonant than "attempting to create content"
+6. **Don't over-promise** — "the second one is easier" is more trustworthy than "this will transform your business"
+7. **Earn the product mention** — Hero Network appears in context, not as a pitch insert
+8. **Acknowledge what competitors do well** — honest comparison builds more credibility than dismissal
+
+---
+
+*Update this file as quality blog articles are published and proven to perform well. Aim for 5-8 examples covering different content types: how-to, comparison, thought leadership, case study, and list-based.*

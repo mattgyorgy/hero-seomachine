@@ -1,351 +1,215 @@
-# Competitor Analysis
+# Hero Network Competitor Analysis
 
-This document tracks key competitors in the podcast hosting and podcasting content space, analyzing their content strategies to identify opportunities for Castos.
-
-## Instructions
-Fill in this template with your main competitors' information. Update quarterly or when significant competitive shifts occur.
+This document outlines our competitive landscape, content gaps, and differentiation opportunities. Used to inform content strategy and SEO targeting.
 
 ---
 
-## Primary Competitors
+## Competitive Landscape Overview
 
-### Competitor 1: [Name]
+Hero Network sits at the intersection of two categories:
+1. **Video production tools** (DIY software like Descript, CapCut, Opus Clip)
+2. **Video production services** (agencies, freelancers, production companies)
 
-**Company Overview**:
-- **Website**: [URL]
-- **Primary Offering**: [Podcast hosting / All-in-one / Specific niche]
-- **Target Audience**: [Beginners / Pro / Enterprise / etc.]
-- **Pricing**: [Brief pricing overview]
-- **Market Position**: [Leader / Challenger / Niche player]
-
-**Content Strategy**:
-- **Blog URL**: [URL]
-- **Publishing Frequency**: [X posts per week/month]
-- **Content Types**: [How-tos, guides, news, case studies, etc.]
-- **Average Article Length**: [words]
-- **Content Quality**: [Assessment]
-
-**Top Performing Content** (highest traffic/rankings):
-1. [Article Title] - [URL]
-   - Keyword: [primary keyword]
-   - Estimated Traffic: [monthly visitors]
-   - Why It Works: [brief analysis]
-
-2. [Article Title] - [URL]
-   [Continue with top 5-10 articles]
-
-**SEO Strengths**:
-- [Strength 1: e.g., "Strong domain authority (DR 75)"]
-- [Strength 2: e.g., "Comprehensive pillar content on all major topics"]
-- [Strength 3: e.g., "Regular content updates and freshness"]
-
-**SEO Weaknesses**:
-- [Weakness 1: e.g., "Thin content on advanced topics"]
-- [Weakness 2: e.g., "Poor internal linking structure"]
-- [Weakness 3: e.g., "Outdated articles (1-2 years old)"]
-
-**Content Gaps** (Topics they don't cover well):
-- [Gap 1: Topic Castos could own]
-- [Gap 2: Underserved keyword area]
-- [Gap 3: Missing perspective or angle]
-
-**Differentiation Opportunities**:
-- [How Castos can stand out vs. this competitor]
-- [Unique angle or approach to take]
-- [Topics to focus on to win against them]
+We're not purely either. We're a **done-for-you, smartphone-first, human-edited video content service** — which means our differentiation is real but requires education.
 
 ---
 
-### Competitor 2: [Name]
+## Direct Competitors
 
-[Follow same format as above]
+### 1. Descript
+**What they do**: AI-powered video and podcast editing software (DIY)
+**URL**: descript.com
+**Strengths**:
+- Strong SEO presence and content marketing
+- Large user base
+- Well-funded, brand recognition
+- AI editing features (remove filler words, overdub)
 
----
+**Weaknesses**:
+- Still requires the user to edit themselves
+- Learning curve — it's software
+- AI editing lacks human judgment
+- Output quality depends entirely on user skill
 
-### Competitor 3: [Name]
+**Our differentiation**:
+- We remove editing entirely from the customer's workflow
+- Human editors apply judgment; Descript applies algorithms
+- No learning curve — record and upload, that's it
 
-[Follow same format as above]
-
----
-
-### Competitor 4: [Name]
-
-[Follow same format as above]
-
----
-
-### Competitor 5: [Name]
-
-[Follow same format as above]
-
----
-
-## Secondary Competitors / Content Publishers
-
-These may not be direct product competitors but compete for content visibility:
-
-### Publisher 1: [Name]
-- **Website**: [URL]
-- **Focus**: [Podcast education / Industry news / etc.]
-- **Why They Matter**: [Authority in space, ranks for key terms, etc.]
-- **Content Approach**: [Brief description]
-- **Opportunity vs. Them**: [How to compete]
-
-### Publisher 2: [Name]
-[Continue]
+**Content angle**: "Descript vs. outsourcing video editing — which actually saves more time?"
 
 ---
 
-## Competitive Keyword Analysis
+### 2. CapCut (Business / Enterprise)
+**What they do**: Mobile video editing app with AI features
+**URL**: capcut.com
+**Strengths**:
+- Free tier, massive user base
+- Strong mobile experience
+- AI auto-captions, templates
 
-### Keywords Competitors Dominate (Castos doesn't rank top 10):
+**Weaknesses**:
+- Still DIY — requires time and skill
+- TikTok-adjacent brand (problematic for B2B)
+- Not suited for long-form or thought leadership content
+- Output can look templated and generic
 
-**Keyword**: [keyword]
-- **Difficulty**: [score]
-- **Volume**: [monthly searches]
-- **Who Ranks**:
-  1. [Competitor] - Position 1
-  2. [Competitor] - Position 2
-  3. [Competitor] - Position 3
-- **Castos Position**: [rank or "Not ranking"]
-- **Their Content Type**: [Guide / Comparison / How-to / etc.]
-- **What They Do Well**: [Analysis of why they rank]
-- **Castos Strategy**: [How to compete - new content, optimize existing, etc.]
-
-[List 10-15 high-priority competitive keywords]
-
----
-
-## Competitive Content Patterns
-
-### Common Topics All Competitors Cover:
-1. [Topic 1 - e.g., "How to start a podcast"]
-   - Standard approach: [How most competitors handle it]
-   - Castos differentiation: [How we can be different/better]
-
-2. [Topic 2]
-   [Continue]
-
-### Emerging Topics Some Competitors Cover:
-- [Topic]: Covered by [Competitor names]
-  - Opportunity: [Early adopter advantage / Wait and see / etc.]
-
-### Unique Topics Only One Competitor Covers:
-- [Topic]: Only [Competitor name]
-  - Why they own it: [Analysis]
-  - Should Castos pursue?: [Yes/No and why]
+**Our differentiation**:
+- Human editing produces more unique output
+- We target business content, not creator content
+- No skill required from the customer
 
 ---
 
-## Content Quality Benchmarks
+### 3. Opus Clip
+**What they do**: AI-powered short clip repurposing from long video
+**URL**: opus.pro
+**Strengths**:
+- Strong at repurposing existing long-form content
+- Fast, automated workflow
+- Good SEO content presence
 
-### Word Count Analysis:
-- **Competitor Average**: [X words]
-- **Top Ranking Articles**: [X words]
-- **Castos Target**: [X words to compete]
+**Weaknesses**:
+- Requires you to already have long-form video
+- AI clip selection is inconsistent
+- Not a production service — just a repurposing tool
+- No human judgment in editing
 
-### Content Depth:
-- **Comprehensive Guides**: [Which competitors do this well]
-- **Tactical How-Tos**: [Who excels at this]
-- **Quick Tips**: [Who focuses here]
-- **Castos Sweet Spot**: [Where we should focus]
-
-### Visual Content:
-- **Screenshots**: [Who uses extensively]
-- **Custom Graphics**: [Who creates these]
-- **Videos**: [Who embeds video]
-- **Charts/Data Viz**: [Who visualizes data well]
-- **Castos Opportunity**: [Where we can excel]
-
-### Update Frequency:
-- **Regular Updates**: [Competitors who update old content]
-- **Publication Dates**: [Who shows dates prominently]
-- **Content Freshness**: [Who keeps content current]
-- **Castos Approach**: [Our update strategy]
+**Our differentiation**:
+- We start from raw capture, not existing content
+- Human editors select the best moments
+- We're a complete workflow, not one step in a workflow
 
 ---
 
-## Link Building & Authority
+### 4. Vidyard
+**What they do**: Video hosting and analytics platform for sales teams
+**URL**: vidyard.com
+**Strengths**:
+- Strong enterprise positioning
+- Sales enablement use case
+- Good CRM integrations
 
-### Domain Authority Comparison:
-- **Castos**: DR [score]
-- **[Competitor 1]**: DR [score]
-- **[Competitor 2]**: DR [score]
-- **[Competitor 3]**: DR [score]
-- **[Competitor 4]**: DR [score]
+**Weaknesses**:
+- Not a production service — hosting only
+- Requires users to record and edit their own content
+- Enterprise pricing, not SMB-accessible
+- Heavy tech integration focus
 
-### Backlink Strategies They Use:
-- **[Competitor]**: [Guest posting / Original research / Tools / etc.]
-- **[Competitor]**: [Their link building approach]
-- **Castos Opportunity**: [Link building tactics to pursue]
-
-### Content Formats That Earn Links:
-- [Format 1: e.g., "Original surveys and data"]
-  - Who does it: [Competitors]
-  - Castos potential: [Could we do this?]
-
-- [Format 2: e.g., "Free tools and calculators"]
-  - Who does it: [Competitors]
-  - Castos potential: [Assessment]
+**Our differentiation**:
+- We produce the content, not just host it
+- SMB-focused pricing ($79/mo vs. enterprise contracts)
+- Conversation format, not sales demo format
 
 ---
 
-## User Experience & Engagement
+### 5. Traditional Video Production Agencies
+**What they do**: Full-service video production — concept, crew, shooting, editing
+**Examples**: Local agencies, Wyzowl, Sandwich Video, etc.
+**Strengths**:
+- Very high production quality
+- Can execute complex concepts
+- Established processes and client management
 
-### Content Presentation:
-- **Table of Contents**: [Who uses them well]
-- **Jump Links**: [Who implements]
-- **Formatting**: [Who has best readability]
-- **CTAs**: [Who has compelling calls-to-action]
-- **Castos Benchmark**: [What we should emulate/avoid]
+**Weaknesses**:
+- Expensive ($1,500-$10,000+ per video)
+- Slow (weeks or months per project)
+- Requires heavy client involvement in pre-production
+- Can't scale to weekly content affordably
+- Often produces over-produced content that feels inauthentic
 
-### On-Page Engagement:
-- **Comments**: [Who has active comment sections]
-- **Social Sharing**: [Who optimizes for shares]
-- **Related Content**: [Who does internal linking well]
-- **Castos Focus**: [Our engagement strategy]
-
----
-
-## Competitive SERP Features
-
-### Featured Snippets:
-**Keywords with Snippets**:
-- [Keyword]: Held by [Competitor]
-  - Format: [Paragraph / List / Table]
-  - Castos Strategy: [How to win it]
-
-### People Also Ask (PAA):
-- Common questions: [List questions that appear frequently]
-- Who answers them: [Which competitors appear in PAA]
-- Castos opportunities: [Questions we should target]
-
-### Video Results:
-- [Keyword]: [Competitor] has video
-  - Should Castos create video?: [Assessment]
+**Our differentiation**:
+- $79/mo vs. $2,500+ per video
+- Turnaround in days, not weeks
+- Built for volume and consistency, not one-off campaigns
+- Authentic output, not over-produced commercial content
 
 ---
 
-## Competitive Moats & Advantages
+## Content Competitors (Who ranks for our keywords)
 
-### Their Unfair Advantages:
-**[Competitor 1]**:
-- [Advantage: e.g., "Market leader brand recognition"]
-- [Advantage: e.g., "10+ years of content and backlinks"]
-- [How Castos can compete anyway]: [Strategy]
+These sites may not be direct product competitors but outrank us in content for our target keywords.
 
-**[Competitor 2]**:
-- [Their advantages]
-- [Our counter-strategy]
+- **HubSpot Blog**: Ranks for broad marketing topics including video
+- **Buffer Blog**: Video marketing tips and social media guides
+- **Sprout Social Blog**: Social media video strategy content
+- **Wistia Blog**: Video marketing strategy and best practices
+- **Neil Patel Blog**: SEO-heavy video marketing content
+- **Backlinko**: High-authority content on video SEO
 
-### Castos's Unique Advantages:
-- [Advantage 1: e.g., "WordPress integration expertise"]
-- [Advantage 2: e.g., "Focus on serious creators vs. hobbyists"]
-- [Advantage 3: e.g., "Private podcasting specialization"]
-- [How to leverage]: [Content strategy to amplify these]
+**Gap**: None of these are writing from the perspective of a production service that removes the editing burden. There's a real opportunity for content that speaks to business owners who don't want to learn editing.
 
 ---
 
-## Content Opportunity Matrix
+## Competitor Content Strategies
 
-### High Opportunity (Low competition, high value):
-1. [Topic/Keyword]
-   - Why opportunity: [Competitors don't cover well]
-   - Business value: [Why it matters for Castos]
-   - Action: [Create priority content]
+### Descript Content Strategy
+- Heavily focused on SEO with how-to guides
+- Keywords: "how to remove filler words", "podcast editing software", "screen recording"
+- Strength: Volume of content covering every use case of their tool
+- Gap: They don't address the "I don't want to edit" audience — they assume you will
 
-[List top opportunities]
+### Wistia Content Strategy
+- High-quality, long-form video marketing content
+- Targets marketing teams and B2B
+- Strong brand authority, good backlinks
+- Gap: Enterprise-focused, not SMB; doesn't address production friction
 
-### Medium Opportunity (Moderate competition, good value):
-[List opportunities]
-
-### Long-term Play (High competition, high value):
-[Topics to tackle with comprehensive, superior content over time]
-
----
-
-## Quarterly Competitive Review
-
-### Q[X] 20[XX] Review
-
-**Date**: [Date of review]
-
-**Major Competitive Shifts**:
-- [Change 1: New competitor emerged, competitor launched new feature, etc.]
-- [Change 2]
-
-**Content Strategy Changes Observed**:
-- [Change 1: Competitor increased publishing frequency, shifted focus, etc.]
-- [Change 2]
-
-**New Topics Competitors Are Covering**:
-- [Topic 1] - Should Castos cover?: [Yes/No]
-- [Topic 2]
-
-**Ranking Changes**:
-- Keywords Castos gained: [List]
-- Keywords Castos lost: [List]
-- Keywords competitors gained: [List]
-
-**Action Items from This Review**:
-1. [Action item]
-2. [Action item]
-3. [Action item]
+### Buffer Content Strategy
+- Social media video tips, format guides, platform best practices
+- Targets content creators and social media managers
+- High volume, broad keywords
+- Gap: Not focused on production quality or editing; assumes DIY
 
 ---
 
-## Competitive Watching List
+## Keyword Gaps (What Competitors Miss)
 
-### Monitor Regularly:
-- [ ] [Competitor 1] blog RSS feed
-- [ ] [Competitor 2] new content alerts
-- [ ] [Competitor 3] ranking changes for key terms
-- [ ] Industry news sites for competitive announcements
+These are terms where competition is weak or where our angle is underrepresented:
 
-### Tools for Monitoring:
-- **Rank Tracking**: [Tool name - track competitors' rankings]
-- **Content Alerts**: [Tool - get notified of new competitor content]
-- **Backlink Monitoring**: [Tool - see where competitors get links]
-- **Topic Discovery**: [Tool - find trending topics in space]
+1. **"Done for you video content"** — most content is DIY-focused
+2. **"Outsource video editing for business"** — limited quality content here
+3. **"Authentic video vs. polished video"** — underserved thought leadership angle
+4. **"Video content without a production crew"** — nobody is writing this well
+5. **"Small business video strategy without hiring a crew"** — gap in SMB video content
+6. **"How to create consistent video content"** — consistency angle underserved
+7. **"Thought leadership video for coaches"** — niche but high intent
 
 ---
 
-## Usage Guidelines
+## Our Unique Content Angles (Unfair Advantages)
 
-### When Planning Content:
-1. Check what competitors have already created on topic
-2. Identify gaps or weaknesses in their coverage
-3. Plan how to create superior, differentiated content
-4. Note their keyword strategy
-5. Assess competitive difficulty
+1. **The friction narrative**: We can write credibly about video production friction because it's the whole problem we solve. No competitor can write this angle honestly.
 
-### When Writing Content:
-1. Reference competitor articles to ensure comprehensiveness
-2. Don't copy - identify what's missing and add it
-3. Find unique angle or perspective
-4. Aim to create the definitive resource on topic
-5. Differentiate with Castos-specific insights
+2. **Human editing in an AI world**: The trend is AI editing. We're a counterpoint. That's a content story with strong SEO potential ("why human video editing still matters").
 
-### When Analyzing Performance:
-1. Compare Castos rankings to competitor rankings
-2. Identify which competitors won rankings we wanted
-3. Analyze why their content outperformed ours
-4. Adapt strategy based on what's working for them
-5. Double down on areas where Castos has unique advantage
+3. **Consistency over quality**: Most video content advice is about getting high production quality. We argue consistency beats quality. That's a contrarian, searchable angle.
+
+4. **Conversation-based content**: The "interview yourself" or "record your expertise in conversation format" angle is underexplored in B2B video content.
+
+5. **Founder perspective**: Matt's story of building a video company without a CS degree using AI is itself a content asset — it lives the Hero Network thesis.
 
 ---
 
-## Maintenance Schedule
+## Competitor Pricing (for comparison in content)
 
-- **Weekly**: Monitor top 3 competitors for new content
-- **Monthly**: Check ranking changes for key terms
-- **Quarterly**: Full competitive audit and strategy review
-- **Annually**: Comprehensive competitor landscape assessment
+| Option | Cost per Video | Time Investment |
+|--------|---------------|-----------------|
+| DIY (Descript, CapCut) | ~$0 (software sub) | 3-8 hours per video |
+| Freelance video editor | $200-$800/video | Still record + coordinate |
+| Video production agency | $1,500-$10,000/video | Full pre-production |
+| Hero Network | ~$79/mo | Record, then done |
 
-**Last Updated**: [Date]
-**Next Review**: [Date]
-**Reviewer**: [Person responsible]
+*Use this table selectively in content where cost comparison adds value. Don't lead with it in every piece.*
 
 ---
 
-**Note**: Competitive analysis isn't about copying - it's about understanding the landscape so Castos can create better, more differentiated content that serves podcast creators in unique ways. Always filter competitive insights through "What would best serve our audience?"
+## Competitive Positioning Statement
+
+**Hero Network is not a video editing tool you learn, and it's not an agency you hire for campaigns.**
+
+It's the thing between those two: a consistent, human-edited, smartphone-first video production service built for business owners who know video matters but aren't willing to become video people to do it.
+
+---
+
+*Update this file quarterly as competitor strategies evolve. Add new competitors as they emerge in our keyword landscape.*

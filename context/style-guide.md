@@ -1,419 +1,204 @@
-# Castos Style Guide
+# Hero Network Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial guidelines for all Castos content.
-
-## Instructions
-Fill in this template with Castos-specific style preferences. Update as the style guide evolves.
+Editorial and formatting standards for all Hero Network content. Reference alongside brand-voice.md.
 
 ---
 
 ## Grammar & Mechanics
 
-### Capitalization
-
-**Headlines & Subheadings**:
-- [ ] Title Case (Capitalize Major Words)
-- [ ] Sentence case (Only capitalize first word)
-- **Decision**: [Choose one and document here]
-
-**Product Names**:
-- Castos: [Always capitalized]
-- Seriously Simple Podcasting: [Capitalization style]
-- [Other Castos products]: [Style]
-
-**Industry Terms**:
-- podcast / Podcast: [Choose one]
-- podcaster / Podcaster: [Choose one]
-- RSS / rss: [RSS (always caps)]
-- [Add other common terms]
-
-### Numbers
-
-**When to Spell Out**:
-- Spell out: One through nine
-- Use numerals: 10 and above
-- Exceptions:
-  - Percentages: Always use numerals (5%, 50%)
-  - Money: Always use numerals ($5, $500)
-  - Measurements: Always use numerals (5 GB, 50 MB)
-  - Lists/stats: Always use numerals for scannability
-
-**Large Numbers**:
-- 1,000+ (use comma)
-- 1 million (spell out million, billion, etc.)
-- $5,000 or $5K? [Choose convention]
+### Voice and Tense
+- **Active voice**: "We edit your video" not "Your video is edited"
+- **Present tense** for timeless advice: "Recording from your phone works better than..."
+- **Second person ("you")**: Write directly to the reader; avoid "one should" or "businesses often"
+- **First person ("we")**: Use for Hero Network when appropriate; avoid overuse
 
 ### Punctuation
+- **Em dashes**: Use sparingly (max 1 per paragraph). Don't use as a crutch for connecting thoughts.
+- **Oxford comma**: Always use — "record, edit, and publish"
+- **Exclamation marks**: Avoid in body copy. Very rare in headers. We don't yell.
+- **Ellipses**: Only for actual trailing thoughts. Not for emphasis.
+- **Semicolons**: Acceptable but use sparingly; restructure the sentence if possible
 
-**Oxford Comma**:
-- [ ] Yes (A, B, and C)
-- [ ] No (A, B and C)
-- **Decision**: [Choose and document]
+### Numbers
+- **Spell out 1-9**: "five videos per month"
+- **Numerals for 10+**: "10 videos per month"
+- **Always numerals for**: percentages, money, statistics — "40% more engagement", "$79/mo"
+- **Approximate numbers**: "tens of thousands" not "10,000s"
 
-**Em Dashes**:
-- Style: — (em dash, no spaces) or - - (hyphens with spaces)
-- Usage: For parenthetical statements or emphasis
-- Example: "Podcast analytics—when used correctly—drive better content decisions."
-
-**Quotation Marks**:
-- "Straight quotes" or "Curly quotes"?
-- **Decision**: [Choose one]
-
-**Ellipses**:
-- Three dots: ...
-- Spacing: no spaces before or after
-- Use sparingly: Primarily for omitted text in quotes
-
-### Abbreviations & Acronyms
-
-**First Use**:
-- Spell out on first use, acronym in parentheses
-- Example: "Really Simple Syndication (RSS) feeds distribute..."
-- Exceptions for universally known: SEO, URL, CTA
-
-**Common Podcasting Acronyms**:
-- RSS: Really Simple Syndication
-- DAI: Dynamic Ad Insertion
-- SEO: Search Engine Optimization
-- IAB: Interactive Advertising Bureau
-- [Add others as needed]
-
-**Latin Abbreviations**:
-- e.g. (for example): [Use or avoid?]
-- i.e. (that is): [Use or avoid?]
-- etc. (and so forth): [Use or avoid?]
-- **Decision**: [Generally avoid in favor of plain English]
-
----
-
-## Word Choice & Usage
-
-### Preferred Terms
-
-**Say This** → **Not That**:
-- podcast creators → podcasters
-- podcast hosting → podcast storage
-- listeners → subscribers
-- audio quality → sound quality
-- show notes → episode notes / shownotes
-- podcast episode → podcast show (episode is unit, show is series)
-- analytics → stats
-- monetize → monetise (US spelling)
-- [Add Castos-specific preferences]
-
-### Words to Avoid
-- Avoid jargon without explanation
-- Avoid "very", "really", "actually" (usually unnecessary)
-- Avoid passive constructions when active is clearer
-- Avoid "click here" or "read more" (use descriptive links)
-- [Add other words/phrases to avoid]
-
-### Inclusive Language
-- Use gender-neutral language ("they" instead of "he/she")
-- "Podcast creator" or "podcaster" instead of gendered terms
-- Avoid idioms that may not translate globally
-- Be mindful of accessibility in descriptions
+### Capitalization
+- **Sentence case for headlines**: "How to record professional video on your phone" (not "How To Record...")
+- **Title case for product names**: Hero Network, LinkedIn, YouTube
+- **No all-caps for emphasis**: Use bold or restructure the sentence
 
 ---
 
 ## Formatting Standards
 
-### Text Formatting
+### Headers
+- **H1**: One per article. Keyword-rich, benefit-focused, sentence case.
+- **H2**: Main sections. Should tell the story if read in isolation.
+- **H3**: Subsections under H2s. Optional — use only when needed for clarity.
+- **No H4+**: If you need H4, the section is too complex; restructure.
 
-**Bold**:
-- Use for: Key concepts, important takeaways, emphasis
-- Don't overuse: If everything is bold, nothing stands out
-- Example: "**Keyword density** should be 1-2% for optimal results."
+### Paragraph Length
+- **2-3 sentences maximum** per paragraph in blog content
+- **Single sentence paragraphs** allowed for emphasis
+- Never more than 4 sentences — split long paragraphs
 
-**Italics**:
-- Use for: Emphasis (sparingly), titles of works, foreign phrases
-- Example: "The term *podcast* combines 'iPod' and 'broadcast'."
-
-**Underline**:
-- Generally avoid (reserve for links)
-
-**ALL CAPS**:
-- Avoid except for standard acronyms (RSS, SEO, URL)
+### Sentence Length
+- **Average 12-18 words** per sentence
+- **Short sentences for emphasis** (under 10 words)
+- **Vary rhythm**: Don't string 10 short sentences in a row — mix in longer ones
+- **Max 30 words** in any single sentence; if longer, split it
 
 ### Lists
+- **Bullet points for 3+ parallel items**
+- **Numbered lists for sequential steps only**
+- **All list items parallel grammatically**: "Record your video" / "Upload to the platform" / "Receive edited file"
+- **Max 7 items per list** — longer lists lose impact
+- **No nested lists**: Keep it flat
+- **Each bullet 1-2 lines max** — if longer, make it a paragraph
 
-**Bulleted Lists**:
-- Use for: Non-sequential items, features, benefits
-- Capitalization: [Sentence case or Title Case?]
-- Punctuation: [Period at end of each item or no punctuation?]
-- **Decision**:
-  - Capitalize first word
-  - Period if complete sentence, no period if fragment
-  - Parallel structure (all sentences or all fragments)
-
-**Numbered Lists**:
-- Use for: Sequential steps, rankings, ordered priorities
-- Format: 1. 2. 3. (with period after number)
-- Same capitalization and punctuation rules as bullets
-
-**Nested Lists**:
-- Maximum 2 levels deep for readability
-- Use different markers for sub-items
+### Bold & Italics
+- **Bold for key terms or critical information** — use sparingly (2-3x per article max)
+- **Italics for titles** of books, shows, publications
+- **No underline** (reserved for links)
+- No bold for emphasis on every other sentence — that's a sign of weak writing
 
 ### Links
-
-**Anchor Text**:
-- Descriptive (tell reader where they're going)
-- Keyword-rich when possible
-- 2-5 words typically
-- ✅ "Learn more about podcast SEO"
-- ❌ "Click here"
-
-**Link Formatting**:
-- Color: [Default blue or Castos brand color?]
-- Underline: [Yes/No]
-- Open in new tab: [Only for external links]
-
-### Code & Technical Elements
-
-**Inline Code**:
-- Use backticks for: URLs, file names, code snippets
-- Example: "Your RSS feed URL is `https://feeds.castos.com/...`"
-
-**Code Blocks**:
-- Use for: Multi-line code, configuration examples
-- Include language identifier for syntax highlighting
-
-### Callout Boxes / Asides
-
-**When to Use**:
-- Important notes or warnings
-- Pro tips or expert insights
-- Key takeaways or summaries
-
-**Format**:
-- [Define how to format: blockquote, box, highlighted section?]
-- Example style to be determined
+- **Descriptive anchor text always**: "video marketing guide" not "click here"
+- **Open in same tab** for internal links; external links can open in new tab
+- **2-4 internal links per article**
+- **2-3 external authority links per article**
+- **No naked URLs in body copy**: Always hyperlink meaningful text
 
 ---
 
-## Content Structure
+## Preferred Terminology
 
-### Article Introduction
-**Standard Structure** (150-250 words):
-1. **Hook** (1-2 sentences): Grab attention with question, statistic, or bold statement
-2. **Problem** (2-3 sentences): What challenge or question does this address?
-3. **Promise** (2-3 sentences): What will reader learn/achieve?
-4. **Credibility** (optional, 1-2 sentences): Why trust this source?
-
-**Keyword Placement**:
-- Must include primary keyword in first 100 words
-- Natural integration, not forced
-
-### Section Length
-- **Minimum**: 150 words per section
-- **Maximum**: 500 words per section (break into subsections if longer)
-- **Ideal**: 250-350 words per main section
-
-### Conclusion
-**Standard Structure** (150-250 words):
-1. **Recap** (3-5 bullet points or paragraph): Key takeaways
-2. **Action** (1-2 sentences): What should reader do next?
-3. **CTA** (1-2 sentences): Call-to-action (trial, resource, related content)
-4. **Forward-looking** (optional, 1 sentence): Encouraging final thought
+| Say This | Not That | Reason |
+|----------|----------|--------|
+| Record | Film / shoot | Removes production implication |
+| Smartphone | Phone camera | More precise |
+| Human editing | AI editing | That's our differentiator |
+| Authentic video | Professional video | "Professional" implies high-barrier |
+| Video content | Video production | Production = complexity |
+| Consistent | Regular | Consistent has more weight |
+| Friction | Barriers | Friction is solvable; barriers feel permanent |
+| Conversation | Script | Conversation = authentic |
+| Business owner | Marketer | Our primary persona |
+| Episode / video | Content piece | More natural language |
+| Upload | Submit | More user-friendly |
+| Founder Pricing | Discount / introductory | Founder Pricing has longevity framing |
 
 ---
 
-## SEO-Specific Style
+## Tone Calibration
 
-### Meta Titles
-- 50-60 characters including spaces
-- Include primary keyword
-- Include "| Castos" if space allows
-- No ending punctuation
+### Confidence Without Arrogance
+- Write with authority; don't hedge everything
+- "Video marketing works" not "Video marketing can sometimes work for some businesses"
+- But don't oversell: "Hero Network may help you" is better than "Hero Network will transform your business"
+
+### Empathy Without Condescension
+- Acknowledge friction and fear — it's real
+- Don't mock or belittle people who haven't started video yet
+- Don't be preachy about the importance of video — they already know
+
+### Direct Without Being Harsh
+- Be blunt about what doesn't work
+- "Scripted videos feel fake. Audiences can tell." — that's direct, not mean
+- Avoid softening everything to the point of saying nothing
+
+---
+
+## SEO Formatting
+
+### Title Tags
+- 50-60 characters
+- Lead with primary keyword when natural
+- Sentence case
+- Include brand modifier or year when it adds value
+
+**Examples**:
+- "How to Create Video Content for Small Business (2025)"
+- "LinkedIn Video Strategy: A Guide for Business Owners"
+- "Why Authentic Video Outperforms Professional Production"
 
 ### Meta Descriptions
-- 150-160 characters including spaces
-- Include primary keyword
-- Include call-to-action
-- End with complete thought
+- 150-160 characters
+- Action-oriented — what will the reader get?
+- Include a secondary keyword naturally
+- Don't just summarize the article title
+
+**Examples**:
+- "Stop letting production complexity kill your video strategy. Here's how small businesses create consistent, professional video without a crew."
+- "LinkedIn video is the most underused growth channel for business owners. Here's a practical strategy that doesn't require a film crew."
 
 ### URL Slugs
-- Lowercase only
-- Hyphens between words
-- Include primary keyword
-- 3-5 words ideal
-- Format: `/blog/primary-keyword-phrase`
+- Lowercase, hyphen-separated
+- Keyword-first when possible
+- Drop stop words (a, the, and, for)
+- Max 5-6 words
+- **Examples**: `/blog/linkedin-video-strategy`, `/blog/outsource-video-editing`, `/blog/authentic-video-marketing`
 
-### Alt Text
-- Describe what image shows
-- Include keyword naturally if relevant
-- 125 characters or less
-- No "image of" or "picture of" (implied)
-
----
-
-## Dates & Time
-
-**Date Format**:
-- Month DD, YYYY (January 15, 2025)
-- Or: DD Month YYYY (15 January 2025)
-- **Decision**: [Choose one]
-
-**Time**:
-- 12-hour format with a.m./p.m.: 3:00 p.m.
-- Or: 24-hour format: 15:00
-- **Decision**: [Choose one]
-
-**Time Zones**:
-- Specify when relevant: "3:00 p.m. EST"
-- Or use: "3:00 p.m. Eastern Time"
+### Image Alt Text
+- Describe what's in the image
+- Include keyword naturally when it fits — don't force it
+- Max 125 characters
+- No "image of..." or "picture of..."
 
 ---
 
-## Statistics & Data
+## What to Avoid
 
-### Citing Sources
-- Always cite statistics with sources
-- Format: "According to [Source], [statistic]."
-- Link to original source when possible
-- Include year of data: "In 2024, podcast listeners reached..."
+### Clichés and Overused Phrases
+- "In today's digital landscape..."
+- "More important than ever..."
+- "Without further ado..."
+- "At the end of the day..."
+- "It goes without saying..."
+- "Needless to say..."
+- "The bottom line is..."
+- Any phrase you've read in 100 other articles
 
-### Presenting Numbers
-- Round large numbers for readability: "1.2 million" not "1,234,567"
-- Use % symbol: 15% (not "percent")
-- Use $ for money: $500 (not "dollars")
-- Include commas: 10,000 not 10000
+### AI Vocabulary (never use these words)
+- Delve
+- Crucial
+- Elevate
+- Leverage (as a verb: "leverage your content")
+- Unlock
+- Dive deep
+- Tapestry
+- Multifaceted
+- Holistic (in a non-medical context)
+- Paradigm shift
+- Game-changing
+- Revolutionary
 
----
-
-## Images & Media
-
-### Image Captions
-- [ ] Required for all images
-- [ ] Optional, only when needed for context
-- **Decision**: [Choose one]
-
-**Caption Style**:
-- Sentence case
-- End with period if complete sentence
-- Placement: Below image
-
-### Screenshots
-- Include relevant screenshots when helpful
-- Crop to show only relevant portion
-- Add arrows/highlights if needed to draw attention
-- Alt text should describe what's shown
-
-### Charts & Graphs
-- Include data visualization when it helps understanding
-- Keep design simple and clean
-- Always provide context in surrounding text
-- Alt text should describe the key finding, not just "chart"
+### Weak Sentence Starters
+- "It is important to note that..."
+- "It should be noted that..."
+- "There are many ways that..."
+- "In order to..."
 
 ---
 
-## Brand-Specific Guidelines
+## Quality Checklist
 
-### Castos Product References
-
-**Castos Platform**:
-- "Castos" (not "the Castos platform" unless needed for clarity)
-- "Castos analytics dashboard"
-- [Add other product-specific terms]
-
-**Features**:
-- [List how to refer to specific features]
-- [Capitalization conventions for features]
-
-### Competitor References
-- [ ] Name competitors directly when relevant
-- [ ] Use generic terms ("other podcast hosts")
-- **Decision**: [Choose approach]
-
-**If Naming Competitors**:
-- Be fair and factual
-- No disparaging language
-- Focus on differentiation, not criticism
+- [ ] Active voice throughout
+- [ ] No paragraphs longer than 3 sentences
+- [ ] Headers in sentence case
+- [ ] Primary keyword in H1, first 100 words, 2-3 H2s
+- [ ] 2-4 internal links with descriptive anchor text
+- [ ] 2-3 external authority links
+- [ ] Meta title 50-60 characters
+- [ ] Meta description 150-160 characters
+- [ ] No AI vocabulary words
+- [ ] No em dash overuse
+- [ ] Lists are parallel and not over-long
+- [ ] CTA is specific and singular
 
 ---
 
-## Accessibility
-
-### Screen Reader Friendly
-- Descriptive link text (not "click here")
-- Image alt text for all images
-- Proper heading hierarchy (H1→H2→H3, no skipping)
-- Descriptive link previews
-
-### Plain Language
-- Write at 8th-10th grade level
-- Define technical terms on first use
-- Use short sentences and paragraphs
-- Break complex ideas into digestible chunks
-
----
-
-## Voice & Tone Reminders
-
-### Core Voice Characteristics
-1. Professional yet approachable
-2. Educational and empowering
-3. Podcast creator advocate
-4. Technically accurate but accessible
-5. Results and growth-focused
-
-### Tone Variations
-- **How-to content**: Instructive, step-by-step, encouraging
-- **Strategic content**: Authoritative, experienced, actionable
-- **Industry news**: Insightful, analytical, forward-looking
-- **Product content**: Benefit-focused, clear, honest
-
----
-
-## Editing Checklist
-
-Before publishing any content:
-
-**Grammar & Mechanics**:
-- [ ] Spelling checked
-- [ ] Grammar checked
-- [ ] Punctuation correct (Oxford comma, em dashes, etc.)
-- [ ] Numbers formatted consistently
-- [ ] Dates formatted correctly
-
-**Style**:
-- [ ] Follows capitalization guidelines
-- [ ] Uses preferred terminology
-- [ ] Consistent formatting (bold, italics, lists)
-- [ ] Links are descriptive
-- [ ] Voice and tone appropriate
-
-**Structure**:
-- [ ] Strong introduction (hook, problem, promise)
-- [ ] Logical section flow
-- [ ] Proper heading hierarchy
-- [ ] Effective conclusion with CTA
-- [ ] Appropriate section lengths
-
-**SEO**:
-- [ ] Keyword integrated naturally
-- [ ] Meta elements optimized
-- [ ] Internal and external links included
-- [ ] Images have alt text
-- [ ] URL slug optimized
-
-**Quality**:
-- [ ] Factually accurate
-- [ ] Sources cited
-- [ ] No broken links
-- [ ] Provides genuine value
-- [ ] Ready for publication
-
----
-
-## Updates & Maintenance
-
-**Style Guide Version**: 1.0
-**Last Updated**: [Date]
-**Next Review**: [Date]
-
-This style guide is a living document. Update as Castos brand and voice evolve.
-
-**Questions or Additions?**
-If you encounter a style question not covered here, make a decision, document it, and add it to this guide for future reference.
+*Review and update this style guide quarterly. Add any new terminology preferences as the brand evolves.*
