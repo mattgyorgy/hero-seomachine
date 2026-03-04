@@ -1,67 +1,78 @@
 # Hero Network Brand Voice & Messaging
 
-This document defines the Hero Network brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+This document defines the Hero Network brand voice, tone, and messaging framework for all content. Reference this alongside the ICP definition in features.md.
+
+## Who We're Writing For
+
+**Primary ICP**: Agency producers and content managers at full-service marketing agencies. They're on retainer to deliver video for multiple clients. They're professionals — they know what good video looks like. Their problem isn't skill or knowledge. It's capacity, coordination, and the logistics of remote client work.
+
+**Secondary ICP**: In-house marketing managers responsible for consistent video output without a dedicated production team.
+
+**Write to the agency producer first.** They're experienced, time-pressed, and allergic to fluff. They've read 100 articles about "video marketing strategy." They don't need to be convinced video matters — they need solutions to operational problems.
+
+---
 
 ## Brand Voice Pillars
 
-### 1. Authentic Over Polished
-- **What it means**: Real is better than perfect. Rough edges are human signals, not flaws. We believe conversation beats performance.
-- **How it sounds**: Direct, honest, unpretentious. We don't dress things up. We say what's true.
-- **Example**: "Most video content fails because it's trying too hard to look professional. The camera can tell."
-- **Avoid**: Marketing speak, hype, "game-changing" language, breathless excitement, false polish.
+### 1. Operationally Honest
+- **What it means**: We speak to the real workflow problems — not the marketing theory. Site visits, chasing client footage, inconsistent quality, scaling retainers. The real stuff.
+- **How it sounds**: Direct, specific, credible. Like someone who's been in a production workflow and knows what breaks.
+- **Example**: "The bottleneck isn't editing. It's getting usable footage out of clients who mean well but never actually send it."
+- **Avoid**: Abstract video marketing advice, beginner-level tips, anything that sounds like it's talking to someone who's never produced content before.
 
-### 2. Practical Philosophy
-- **What it means**: Big ideas grounded in real application. We think about first principles AND show the actual workflow.
-- **How it sounds**: Thoughtful but specific. References real tools, real processes, real numbers.
-- **Example**: "The problem isn't your camera. It's that hitting record still feels like stepping on stage."
-- **Avoid**: Vague inspiration without action steps. Generic advice that could apply to any business.
+### 2. Respects the Professional
+- **What it means**: Our reader is experienced. We don't explain what a retainer is or why video matters. We skip the fundamentals and talk shop.
+- **How it sounds**: Peer-to-peer, not teacher-to-student. Assumes context. Treats the reader as someone who's solved half the problem already.
+- **Example**: "You already know the output quality. The question is whether you can deliver it without a site visit every time."
+- **Avoid**: Explaining basics to someone who already knows them. Condescension disguised as helpfulness.
 
-### 3. Friction Is the Real Enemy
-- **What it means**: The video production industry built unnecessary barriers—expensive gear, crews, scripted performances. We remove them.
-- **How it sounds**: Problem-aware, not preachy. Names the specific friction, then offers the path through.
-- **Example**: "That's not a video problem. It's a friction problem. And friction is solvable."
-- **Avoid**: Blaming the user, implying they're lazy or wrong. The friction is structural, not personal.
+### 3. Friction Is the Real Problem
+- **What it means**: The production industry built workflows that require physical presence, expensive gear, and client cooperation. We remove the coordination friction specifically.
+- **How it sounds**: Problem-aware, solution-specific. Names the exact moment things break in a workflow.
+- **Example**: "Remote video production doesn't fail at the editing stage. It fails when the client doesn't send the footage."
+- **Avoid**: Vague "streamline your workflow" language. Be specific about what's broken.
 
-### 4. Execution Over Ideation
-- **What it means**: Ideas are cheap. Showing up consistently is the differentiator. Consistency beats perfection.
-- **How it sounds**: Grounded in doing, not dreaming. Action-oriented. Respects the reader's time.
-- **Example**: "Most business owners know video works. The gap is the 3 feet between knowing and hitting record."
-- **Avoid**: Long theoretical discussions without a clear next step. Overcomplicating simple actions.
+### 4. Tool Positioning (Not a Revolution)
+- **What it means**: Hero Network is a tool in a professional stack — like Frame.io or Notion. It solves a specific problem well. It doesn't "transform" anything.
+- **How it sounds**: Confident about what it does, clear about what it doesn't. Fits into existing workflows rather than replacing them.
+- **Example**: "Add it to your production stack. Brief your client, send the link, receive edited video."
+- **Avoid**: Hype, transformation language, "game-changing", overpromising scope.
 
-### 5. Human-First Technology
-- **What it means**: AI is leverage, not replacement. Human editing judgment and authentic conversation are irreplaceable.
-- **How it sounds**: Clear-eyed about what technology can and can't do. Excited about tools, honest about limitations.
-- **Example**: "We use AI to make editing faster. We still use human editors to make it good."
-- **Avoid**: Tech hype, AI-washing, implying robots replace humans. Fake automation promises.
+### 5. Economics Matter
+- **What it means**: Agency producers think in margin, throughput, and retainer value. $79/mo against a $1,500/mo video retainer is a clear ROI conversation.
+- **How it sounds**: Numbers-friendly, business-minded, aware of the agency model.
+- **Example**: "One video retainer client covers the tool cost six times over."
+- **Avoid**: Vague "saves you time and money" language. Use actual numbers.
 
 ---
 
 ## Tone Guidelines
 
-### General Tone: Direct, Thoughtful, Unpretentious
-Imagine a founder who built something they genuinely believe in and is talking shop with someone who gets it. No pitch deck energy. No venture-capital speak. Just honest conversation about a real problem and how to solve it. We know video. We know the friction. We know what authentic looks like—and what it doesn't.
+### General Tone: Direct, Professional, Operationally Aware
+The reader is a working producer or content manager. They're probably reading this between client calls. Write like someone who understands their day-to-day — the client who keeps postponing the recording session, the retainer that's hard to scale, the pressure to deliver quality without a full production budget.
+
+No fluff. No preamble. Get to the useful part.
 
 ### Tone Variations by Content Type
 
-**How-To Guides**: Clear, step-by-step, specific. Respects reader's time.
-- "Here's exactly how to record a video that doesn't feel forced."
-- "Three questions to ask before you hit record."
-- "If it sounds like a script, it is. Here's how to fix that."
+**How-To Guides**: Step-by-step, assumes professional competence. Skip the why and get to the how.
+- "Here's how to set up a remote capture workflow for a new client."
+- "Three things to brief your client on before sending the upload link."
+- "What to check before you send the edited file."
 
-**Strategy/Advice Content**: Philosophical + practical. Names the real problem.
-- "Video marketing isn't about production quality. It's about consistency."
-- "The businesses winning on video aren't the ones with the best cameras."
-- "Most companies treat video like a campaign. Treat it like a conversation."
+**Strategy/Analysis Content**: Analytical, operational. Talks about scale, margin, capacity.
+- "Why video retainers are hard to scale — and what changes when you go remote."
+- "The agency math on in-person vs. remote video production."
+- "How to add video as a service line without hiring a producer."
 
-**Industry News/Trends**: Analytical, grounded, specific. Warns against hype.
-- "Synthetic video is getting good. That makes authentic video more valuable, not less."
-- "AI video tools are removing cost barriers—which raises the question of what's worth creating."
-- "The production industry built artificial barriers. Now they're dissolving."
+**Comparison/Evaluation Content**: Honest and specific. Acknowledges real tradeoffs.
+- "Remote video production vs. on-site: when each makes sense."
+- "What you actually get from a done-for-you video tool vs. DIY editing software."
+- "Human editing vs. AI editing: the difference matters more than you think."
 
-**Product/Feature Content**: Benefit-led, specific, honest about tradeoffs.
-- "You record from your phone. Our editors handle the rest."
-- "Human editing means someone who's watched 10,000 videos decides what stays."
-- "Polished output from authentic input. That's the whole model."
+**Product/Feature Content**: Workflow-focused. Shows where it fits in the production process.
+- "The guest upload link is the piece most agencies are missing."
+- "How the editing queue works across multiple client projects."
 
 ---
 
@@ -69,112 +80,102 @@ Imagine a founder who built something they genuinely believe in and is talking s
 
 ### Core Brand Messages
 
-#### Message 1: Conversation Beats Performance
-- **Concept**: Authentic conversation is more compelling than scripted, produced content—and most people already know how to have a conversation.
+#### Message 1: Remote Capture Solves the Real Problem
+- **Concept**: The failure point in video retainer work isn't editing — it's getting clients to record. Guest upload links fix that.
 - **Key Points**:
-  - The best video content looks like a genuine conversation, not a commercial
-  - Performance anxiety is the #1 reason people don't create video
-  - You already know how to talk. That's the skill.
-- **Usage**: When writing about video creation, content strategy, thought leadership video
+  - Most agencies lose hours coordinating client recordings, not editing them
+  - A link removes every barrier: no account, no app, no equipment
+  - Clients who "never have time" can record from their phone in 20 minutes
+- **Usage**: Any content about remote video production, client management, scaling retainers
 
-#### Message 2: Friction Is Solvable
-- **Concept**: The barriers to video aren't talent or ideas—they're structural friction that Hero Network removes.
+#### Message 2: Scale Without Headcount
+- **Concept**: The traditional model — one producer per client visit — doesn't scale on retainer. Remote production changes the unit economics.
 - **Key Points**:
-  - Expensive gear, crews, and editing are legacy barriers, not requirements
-  - The smartphone in your pocket is a production studio
-  - Professional output doesn't require a professional setup
-- **Usage**: When comparing to traditional video production, addressing objections about quality
+  - In-person production caps how many video clients one producer can manage
+  - Remote capture + standardized editing removes the per-client time ceiling
+  - Same quality output at 3x the client volume
+- **Usage**: Content about agency growth, video retainer scaling, production operations
 
-#### Message 3: Consistency Over Perfection
-- **Concept**: Showing up weekly with authentic, good-enough content outperforms the perfect video you never published.
+#### Message 3: A Tool, Not a Replacement
+- **Concept**: Hero Network sits in the stack alongside Frame.io, Notion, and similar professional tools. It doesn't replace the agency's relationship with the client — it makes delivery easier.
 - **Key Points**:
-  - Done is better than perfect in video content
-  - The algorithm rewards consistency, not production value
-  - Your audience builds trust through repetition, not spectacle
-- **Usage**: When addressing perfectionism, content cadence, why people stop creating video
+  - Plugs into existing client workflows
+  - Agency retains creative direction and client relationship
+  - Editors handle execution; producers handle strategy
+- **Usage**: Objection handling, "how it works" content, comparison pieces
 
-#### Message 4: Human Editing Is the Differentiator
-- **Concept**: AI handles the mechanical work; human editors apply judgment that makes content genuinely good.
+#### Message 4: Professional Output From Remote Capture
+- **Concept**: Clients recording from smartphones doesn't mean low quality — it means human editors and a structured process that makes the most of what they record.
 - **Key Points**:
-  - Real editors who've watched thousands of videos know what to cut
-  - Judgment can't be automated—tone, pacing, what lands, what doesn't
-  - The combination of ease of capture + human editing produces the best outcome
-- **Usage**: When differentiating from DIY tools, addressing quality concerns
+  - Modern smartphones shoot broadcast-quality footage
+  - Human editors make better decisions than clients or AI about what to keep
+  - The final output looks the same whether recorded in-studio or on a phone
+- **Usage**: Quality objection content, comparison to in-person production
 
-### Value Propositions
+### Value Propositions by Segment
 
-**For Small Business Owners**:
-"You know video works. We remove every excuse not to do it. You talk. We make it look good."
+**For Agency Producers**:
+"Deliver video retainer work without site visits. Your clients record from their phones. We handle editing. You keep the margin."
 
-**For Coaches and Consultants**:
-"Your expertise deserves to be seen. Record a conversation from your phone. We handle the rest."
+**For Agency Owners/Principals**:
+"Add video as a service line without hiring a producer. $79/mo. Human-edited output. Works for any client with a smartphone."
 
-**For Marketing Teams**:
-"Create authentic video content at the volume you need without hiring a production crew."
-
-**For Founders and Executives**:
-"Thought leadership video shouldn't require a film crew. Record your perspective. We make it publish-ready."
+**For Freelance Content Producers**:
+"Take on more video clients without adding hours. Remote capture eliminates the production visit from your workflow."
 
 ---
 
 ## Writing Style Guidelines
 
 ### Sentence Structure
-- **Vary length**: Short punchy sentences for emphasis. Longer sentences for context and explanation. Then short again for the punch.
-- **Active voice**: "We remove friction" not "Friction is removed by us"
-- **Average length**: 12-18 words per sentence
-- **Clarity first**: If you have to read it twice to understand it, rewrite it
+- **Short sentences for key points**: Under 15 words for the important stuff
+- **Active voice always**: "Clients record from their phones" not "Footage is recorded by clients"
+- **No throat-clearing**: Skip "In today's world of video content..." — start with the real sentence
+- **Vary rhythm**: Short for emphasis, longer for context, short again for the punch
 
 ### Paragraph Structure
-- **Length**: 2-3 sentences max for blog content
-- **One idea per paragraph**: Don't stack multiple points
-- **Transitions**: Move through ideas naturally; use questions to shift sections
-- **White space**: Err on the side of more white space. Dense blocks signal corporate writing.
+- **2-3 sentences max in blog content**: Dense blocks signal corporate writing
+- **One idea per paragraph**: Don't stack
+- **Questions work well for transitions**: Move sections forward with a question that the next section answers
 
 ### Word Choice
-- **Conversational**: Write how a smart, experienced person would explain it to a peer
-- **Specific**: "40% fewer edits" not "significant time savings"
-- **Active verbs**: "Record", "ship", "build", "remove", "cut", "capture"
-- **Avoid fluff**: Cut "very", "really", "truly", "incredibly", "revolutionary", "game-changing"
+- **Operational vocabulary**: Retainer, deliverable, throughput, workflow, capacity, turnaround, brief, capture, upload, edit, deliver
+- **Specific over vague**: "Clients who haven't sent footage in 3 weeks" not "delayed clients"
+- **Numbers where possible**: "$79/mo", "5 clients", "3-day turnaround", "4K from any iPhone"
+- **Avoid filler**: "streamline", "leverage", "holistic", "game-changing", "cutting-edge"
 
 ### Terminology
 
 **Say This** → **Not That**
-- Authentic video → Professional video (implies unattainable standard)
-- Record a conversation → Shoot a video (implies production complexity)
-- Human editing → AI editing (we're not that—precision matters)
-- Video content → Video production (production implies over-engineering)
-- Friction → Barriers (friction is solvable; barriers feel permanent)
-- Show up consistently → Go viral (we're not promising virality)
-- Smartphone → Camera setup (smartphone removes friction; camera setup adds it)
+- Remote capture → On-site filming (removes the visit implication)
+- Guest upload link → File sharing (more specific, more professional)
+- Human editing → AI editing (we're the former — be specific)
+- Agency producer → Business owner (we're writing to a professional)
+- Video retainer → Video project (retainer is the agency's business model)
+- Client recording → Client footage (recording is the act; footage is the output)
+- Production stack → Tool (positions us at professional level)
+- Deliver → Ship, publish (delivery is the agency's job)
 
 ---
 
 ## Content Formatting
 
 ### Headlines
-- **Be specific**: "How to Record Video From Your Phone That Doesn't Look Amateurish" not "Video Tips"
-- **Include the real problem**: Address the friction or fear directly
-- **Use numbers when natural**: "5 Reasons Your Video Content Looks Overproduced" works
-- **Keep concise**: 60 characters or less for SEO; lead with the benefit
+- **Operational framing**: Talk about the workflow problem, not the aspiration
+- **Specific audience signals**: "For agencies", "on retainer", "at scale" — signal who this is for
+- **Numbers where natural**: "How to Manage 8 Video Clients Without a Site Visit"
+- **Keep to 60 characters for SEO**: Don't sacrifice clarity for length
 
 ### Subheadings
-- **Ask questions**: "What Does Authentic Video Actually Look Like?"
-- **Name the real issue**: "The Friction Problem Nobody Talks About"
-- **Describe the outcome**: "Why Consistency Beats a Perfect Production Schedule"
-- **Be scannable**: Someone should be able to understand the article from headings alone
-
-### Lists
-- **Use bullets for tactics/tools**: When listing actionable items
-- **Keep parallel structure**: All bullets should match grammatically
-- **Maximum 5-7 items**: Longer lists dilute impact
-- **No bullet-point summaries at the end**: Don't summarize what you just said
+- **Name the real thing**: "The Client Footage Problem" not "Common Challenges"
+- **Questions work**: "What Happens When the Client Doesn't Record?"
+- **Operational language**: Steps, processes, decisions — not vague concepts
 
 ### Calls-to-Action
-- **Specific**: "Start your first project" not "Get started"
-- **Low friction**: Match the CTA to where the reader is in their journey
-- **One per article**: Don't stack multiple CTAs
-- **Founder Pricing framing**: "$79/mo—locked in while you're early"
+- **Stack-framing**: "Add Hero Network to your production stack"
+- **Economics angle**: "At $79/mo, it pays for itself with one client"
+- **Low friction**: "Start your first project" — not "Transform your agency"
+- **One CTA per article**: Always links to Founder Pricing or the main site
 
 ---
 
@@ -182,75 +183,31 @@ Imagine a founder who built something they genuinely believe in and is talking s
 
 ### Excellent Hero Network Voice ✅
 
-"Most business owners know video works. They've watched a competitor grow their audience with weekly recordings from a desk. They know the ROI. They've budgeted for it.
+"The hardest part of video on retainer isn't editing. It's the two weeks between 'we'll get you the footage' and actually receiving something usable.
 
-And then they open the camera app and freeze.
+Clients are busy. Recording feels like a production. So it keeps getting pushed — until you're the one sending the third follow-up email in a row, asking if they've had a chance to set up yet.
 
-It's not a knowledge problem. It's not a skill problem. It's friction—the gap between knowing you should and actually hitting record. That gap is what we built Hero Network to close.
+That's not a client problem. That's a workflow problem. And the fix isn't better follow-up sequences.
 
-You talk. We edit. You show up consistently. That's the whole system."
+It's removing the reason they keep stalling."
 
 **Why this works**:
-- Opens with a true, specific observation the reader recognizes
-- Identifies the emotional reality (freezing at the camera app)
-- Names the actual problem (friction, not skill)
-- Delivers the solution in plain language
-- Short sentences drive the rhythm
-- No buzzwords, no corporate speak
+- Opens with the real operational problem (not theory)
+- Describes a specific, recognizable scenario the reader has lived
+- Short paragraphs, varied sentence length
+- Reframes without being preachy
+- Sets up the product's value without stating it yet
 
 ### Not Hero Network Voice ❌
 
-"In today's digital landscape, video content has emerged as a crucial driver of brand awareness and engagement. Hero Network's innovative platform leverages cutting-edge technology to revolutionize the video production experience, enabling businesses to create high-quality content at scale. Our comprehensive solution addresses the multifaceted challenges of modern content creation while delivering exceptional ROI."
+"In today's dynamic digital landscape, video content has become an essential component of successful marketing strategies. Agencies that leverage the power of video production are better positioned to deliver value to their clients and drive meaningful ROI. Hero Network's innovative remote video production platform empowers agencies to streamline their workflows and scale their operations efficiently."
 
 **Why this fails**:
-- "Digital landscape", "cutting-edge", "revolutionize" are noise
-- Passive, vague, could describe any SaaS product
-- Feature-focused instead of friction-focused
-- No specificity, no real insight
-- Sounds like it was written by a committee
-
----
-
-## Audience Understanding
-
-### Who We Write For
-
-**Primary Audience**: Small and medium business owners, coaches, consultants, and founders who understand that video content matters but haven't made it a consistent habit.
-- They're not camera-shy by nature—they're friction-blocked
-- They have real expertise worth sharing
-- They're already creating content in other formats (email, LinkedIn text posts)
-- They've tried video before and it felt harder than it should
-- They value authenticity and would never script a sales conversation
-
-**Secondary Audiences**:
-- **Marketing managers at small teams**: Need volume without a production crew budget
-- **Executives and thought leaders**: Want to be visible but not on camera every week with full production
-- **Content creators scaling up**: DIY tools aren't producing professional enough output
-- **Agency/production companies**: Looking for a more efficient client workflow
-
-### What They Care About
-
-**Top Priorities**:
-1. Not wasting time on something that won't work
-2. Looking credible and professional without a production setup
-3. Building an audience without burning out on content creation
-4. Getting consistent output without a content team
-5. Staying authentic—not turning into a "content person"
-
-**Pain Points**:
-1. Video takes too long to produce vs. writing
-2. They hate how they look and sound on camera
-3. Past attempts at video were inconsistent and unmemorable
-4. Production quality feels unprofessional compared to big brands
-5. Not sure what to say or how to structure it
-
-### How to Serve Them
-
-- **Respect their time**: Get to the point. They're busy operators, not content strategists.
-- **Name the friction explicitly**: Make them feel seen. Yes, the camera is intimidating. That's real.
-- **Make it actionable**: Every piece of content should end with one thing they can do.
-- **Show don't tell**: Use examples, case studies, and specific scenarios—not vague encouragement.
-- **Acknowledge complexity**: Don't pretend it's all easy. The first video is always the hardest. That's true.
+- "Dynamic digital landscape" — meaningless opener
+- "Leverage the power" — cliché
+- Could describe literally any marketing tool
+- No operational specificity
+- Talks about video marketing as a concept, not as a workflow problem to solve
 
 ---
 
@@ -258,21 +215,15 @@ You talk. We edit. You show up consistently. That's the whole system."
 
 Before publishing any content, verify:
 
-- [ ] **Voice**: Sounds direct, thoughtful, and friction-aware—not corporate or hype-y
-- [ ] **Tone**: Appropriate for content type; how-to is practical, strategy is philosophical
-- [ ] **Value**: Provides a real insight or solves a real problem for the reader
-- [ ] **Clarity**: Complex concepts explained simply; no jargon without explanation
-- [ ] **Accuracy**: Claims about video, production, and results are factually grounded
-- [ ] **Examples**: Includes specific scenarios that the target audience will recognize
-- [ ] **Action**: Has one clear takeaway or next step
-- [ ] **Messaging**: Connects to at least one of the four core messages
-- [ ] **Terminology**: Uses preferred language (authentic, friction, conversation—not production, viral, game-changing)
-- [ ] **Empowerment**: Reader feels like they can do this—not like they need a film crew
+- [ ] **Audience**: Written for an agency producer or content professional, not a business owner learning video for the first time
+- [ ] **Voice**: Operational, direct, peer-to-peer — not instructional or inspirational
+- [ ] **Specificity**: Names real workflow moments, not abstract challenges
+- [ ] **Tone**: Professional and time-respecting — gets to the useful part fast
+- [ ] **Economics**: Where relevant, includes numbers (cost, client capacity, time saved)
+- [ ] **Product fit**: Hero Network mentioned in context of solving a workflow problem, not as a general endorsement
+- [ ] **CTA**: One specific, stack-framing call to action
+- [ ] **No fluff**: Read aloud — anything that sounds hollow gets cut
 
 ---
 
-**Remember**: Every piece of content should make the reader feel like video is more doable than they thought. We're not selling complexity. We're removing it.
-
----
-
-*This file was created for Hero Network's SEO content machine. Update it as the brand evolves or new positioning emerges.*
+*This file was created for Hero Network's SEO content machine. Update it as the ICP or brand positioning evolves.*

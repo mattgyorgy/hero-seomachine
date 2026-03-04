@@ -1,223 +1,230 @@
 # Hero Network Target Keywords
 
-This document organizes our keyword research by topic cluster with intent classification. Used by all content agents to guide keyword targeting.
+Keyword research organized by cluster. Written for the agency producer ICP — professionals on retainer to deliver video content for multiple clients.
 
 ---
 
 ## Keyword Strategy Overview
 
-**Primary Target Audience**: Small business owners, coaches, consultants, founders, and marketing teams who want to create consistent video content without a production crew.
+**Primary ICP**: Agency producers and content managers at full-service marketing agencies delivering video on retainer.
 
-**Content Goal**: Rank for video content creation, video marketing, and professional video production keywords where the intent aligns with removing friction and cost barriers.
+**Content Goal**: Rank for keywords that agency-side video professionals search when looking for production tools, remote video workflows, and ways to scale client video delivery.
 
-**Competitive Approach**: We're a small early-stage company — target long-tail, high-intent, lower-competition terms first. Build content authority before going after broad head terms.
+**Competitive Approach**: Starting from zero domain authority — target long-tail, high-intent, lower-competition terms first. Build topical authority in the "agency video production" space before competing on broader terms.
+
+**Key Insight**: Most video marketing content targets the end business owner. Almost nothing is written specifically for the agency professional delivering video on behalf of clients. That's our gap.
 
 ---
 
-## Pillar Cluster 1: Video Marketing for Small Business
+## Pillar Cluster 1: Remote Video Production for Agencies
 
-**Pillar Keyword**: `video marketing for small business`
+**Pillar Keyword**: `remote video production for agencies`
 
-### Cluster Keywords (Subtopics)
-- `how to create video content for small business`
-- `video marketing strategy small business`
-- `small business video content ideas`
-- `affordable video production for small business`
-- `how to make professional videos without a crew`
-- `video content for business owners`
-- `how to start video marketing`
-- `video marketing tips for entrepreneurs`
-- `business video content strategy`
-- `how to create consistent video content`
+### Cluster Keywords
+- `how to produce client video remotely`
+- `remote video production workflow`
+- `client video production without site visits`
+- `how to get client video footage remotely`
+- `remote video capture for marketing agencies`
+- `agency video production at scale`
+- `how to scale video production for clients`
+- `video production retainer workflow`
 
 ### Long-Tail Variations
-- `how to make business videos with your phone`
-- `video marketing for coaches and consultants`
-- `how to get started with video marketing as a small business`
-- `why small businesses should use video marketing`
-- `video content strategy for solopreneurs`
+- `how to deliver video retainer work remotely`
+- `how marketing agencies produce video without a crew`
+- `remote video production tools for agencies`
+- `how to manage client video projects remotely`
+- `video production for multiple clients simultaneously`
 
 ### Intent Classification
-- Informational: "how to create video content" — seeking to learn
-- Commercial: "affordable video production" — evaluating solutions
-- Transactional: "video production service for small business" — ready to buy
+- Informational: "how to produce client video remotely"
+- Commercial: "remote video production tools for agencies" — evaluating solutions
+- Transactional: "remote video capture platform for agencies" — ready to buy
 
 ---
 
-## Pillar Cluster 2: Authentic Video Content
+## Pillar Cluster 2: Scaling Video Retainers
 
-**Pillar Keyword**: `authentic video content`
+**Pillar Keyword**: `how to scale video production retainer`
 
-### Cluster Keywords (Subtopics)
-- `how to be authentic on camera`
-- `authentic video marketing`
-- `video content that builds trust`
-- `how to look natural on camera`
-- `conversation-based video content`
-- `thought leadership video content`
-- `how to make video content without a script`
-- `unscripted video marketing`
-- `personal brand video content`
+### Cluster Keywords
+- `video retainer agency`
+- `how to offer video as a service agency`
+- `video production on retainer`
+- `agency video service offering`
+- `how to add video to marketing retainer`
+- `video production capacity agency`
+- `managing multiple video clients`
+- `video content at scale for agencies`
 
 ### Long-Tail Variations
-- `how to stop looking stiff on camera`
-- `why authentic video outperforms polished production`
-- `how to create genuine video content for business`
-- `video without a script tips for business owners`
-- `thought leadership video strategy linkedin`
+- `how to offer video production on retainer`
+- `agency video production pricing model`
+- `how many video clients can one producer handle`
+- `scaling video production without hiring`
+- `how to grow video revenue as a marketing agency`
 
 ### Intent Classification
-- Informational: "how to be authentic on camera"
-- Commercial: "authentic video production service"
+- Informational: "how to offer video as a service" — figuring out the model
+- Commercial: "video production tools for retainer agencies" — evaluating tools
 
 ---
 
-## Pillar Cluster 3: LinkedIn Video Content
+## Pillar Cluster 3: Getting Client Video Footage
 
-**Pillar Keyword**: `linkedin video content strategy`
+**Pillar Keyword**: `how to get clients to record video`
 
-### Cluster Keywords (Subtopics)
-- `how to post video on linkedin`
-- `linkedin video marketing tips`
-- `linkedin video best practices`
-- `how to grow on linkedin with video`
-- `linkedin video content ideas for business`
-- `linkedin thought leadership video`
-- `how often to post video on linkedin`
-- `linkedin native video vs youtube link`
-- `best video length for linkedin`
+### Cluster Keywords
+- `how to get client video content`
+- `client video recording tips for agencies`
+- `how to brief a client for video recording`
+- `client video capture workflow`
+- `remote client video recording`
+- `getting usable video footage from clients`
+- `how to coach clients on recording video`
+- `client video recording guide`
 
 ### Long-Tail Variations
-- `linkedin video strategy for founders`
-- `how to build linkedin audience with video`
-- `linkedin video content for consultants`
-- `linkedin video engagement tips 2025`
-- `thought leadership video on linkedin examples`
+- `how to get clients to actually record their videos`
+- `why clients don't send video footage`
+- `client video brief template`
+- `how to simplify video recording for clients`
+- `remote video capture link for clients`
 
 ### Intent Classification
-- Informational dominant: "how to post", "best practices", "content ideas"
-- Commercial: "linkedin video production service"
+- Informational dominant: solving a specific operational problem
+- Commercial: "tool to simplify client video capture"
 
 ---
 
-## Pillar Cluster 4: Video Production Without a Crew
+## Pillar Cluster 4: Outsource Video Editing (Agency Context)
 
-**Pillar Keyword**: `professional video without a production crew`
+**Pillar Keyword**: `outsource video editing for agencies`
 
-### Cluster Keywords (Subtopics)
-- `how to make professional videos at home`
-- `video production alternatives to agencies`
-- `low cost video production`
-- `cheap video production for business`
-- `video production service affordable`
+### Cluster Keywords
 - `outsource video editing`
-- `video editing service for business`
-- `how to outsource video editing`
-- `remote video production`
+- `video editing service for agencies`
+- `white label video editing`
+- `agency video editing workflow`
+- `how to outsource video post-production`
+- `video editing on demand for agencies`
+- `human video editing service`
+- `professional video editing service for marketing agencies`
 
 ### Long-Tail Variations
-- `how to make professional video with smartphone`
-- `alternatives to hiring a video production company`
-- `affordable video editing service for small business`
-- `outsource video editing for content creators`
-- `video editing service for youtube`
-- `done-for-you video content creation`
+- `outsource video editing for multiple clients`
+- `video editing service that handles client work`
+- `how agencies outsource video editing`
+- `best video editing service for marketing agencies`
+- `done for you video editing agency`
 
 ### Intent Classification
-- Commercial dominant: actively evaluating alternatives
-- Transactional: "video editing service" — ready to buy
+- Commercial dominant: actively looking for a service
+- Transactional: "outsource video editing" — ready to buy
 
 ---
 
-## Pillar Cluster 5: Smartphone Video Production
+## Pillar Cluster 5: Video Production Tools for Agencies
 
-**Pillar Keyword**: `smartphone video production`
+**Pillar Keyword**: `video production tools for marketing agencies`
 
-### Cluster Keywords (Subtopics)
-- `how to record professional video on iphone`
-- `best way to record video on phone for business`
-- `phone video production tips`
-- `how to improve video quality on smartphone`
-- `iphone video for business`
-- `android video for business`
-- `professional looking video with phone`
-- `phone video lighting tips`
-- `how to record a talking head video on phone`
+### Cluster Keywords
+- `best video tools for agencies`
+- `agency video production software`
+- `video workflow tools for content agencies`
+- `frame.io alternatives`
+- `video production platform for agencies`
+- `tools for managing client video production`
+- `remote video production software`
 
 ### Long-Tail Variations
-- `how to film professional looking video with iphone`
-- `phone setup for recording business video`
-- `talking head video tips for non-video people`
-- `how to look professional on a phone camera`
+- `video production stack for marketing agencies`
+- `tools agencies use for video content`
+- `how to build a video production workflow for clients`
+- `video project management for agencies`
 
 ### Intent Classification
-- Informational: setup and tips
-- Commercial: looking for tools or services to help
+- Commercial: comparing tools, evaluating options
+- Transactional: "video production platform for agencies" — ready to buy
 
 ---
 
-## Pillar Cluster 6: Video Content for Coaches and Consultants
+## Pillar Cluster 6: Authentic/Conversational Video (Agency Angle)
 
-**Pillar Keyword**: `video content for coaches`
+**Pillar Keyword**: `conversational video content for clients`
 
-### Cluster Keywords (Subtopics)
-- `how to use video marketing as a coach`
-- `video content ideas for consultants`
-- `thought leadership video for coaches`
-- `how to build audience as a coach using video`
-- `consulting firm video content strategy`
-- `video marketing for service businesses`
-- `how to attract clients with video`
-- `personal brand video for consultants`
+### Cluster Keywords
+- `how to create authentic video for clients`
+- `unscripted client video`
+- `thought leadership video for agency clients`
+- `how to get natural-looking client video`
+- `interview-style video for business clients`
+- `conversation-based video marketing`
 
 ### Long-Tail Variations
-- `video content strategy for business coaches`
-- `how coaches use linkedin video to get clients`
-- `video content ideas for executive coaches`
-- `video marketing for consulting businesses`
+- `how agencies create thought leadership video for clients`
+- `authentic client video without a production crew`
+- `how to produce executive video content remotely`
+- `interview-based video content for b2b clients`
 
 ### Intent Classification
-- Informational and commercial mix
+- Informational: understanding the format
+- Commercial: looking for a service that delivers this
 
 ---
 
 ## BOFU (Bottom of Funnel) Keywords
 
-These are high-intent keywords signaling readiness to evaluate or purchase.
+High-intent — actively evaluating or ready to buy.
 
-- `video production service for small business`
-- `outsource video production`
-- `video editing service for business owners`
-- `done for you video content`
-- `video content creation service`
-- `professional video editing service`
 - `remote video production platform`
-- `affordable video production service`
-- `video marketing service`
+- `video production service for agencies`
+- `outsource video editing for marketing agencies`
+- `done for you video production`
+- `video retainer tool`
+- `client video capture platform`
+- `hero network pricing`
+- `hero network review`
+- `remote video capture tool`
+- `video editing service for content agencies`
 
 ---
 
 ## Competitor / Alternative Keywords
 
-- `wistia alternatives for small business`
-- `descript alternatives`
-- `video production agency alternatives`
-- `opus clip alternatives`
-- `vidyard alternatives small business`
+- `frame.io alternatives`
+- `descript alternatives for agencies`
+- `wistia alternatives`
+- `video production agency alternative`
+- `loom alternatives for client video`
 
 ---
 
 ## Negative / Avoid Keywords
 
-These are high-volume terms we shouldn't chase — wrong audience or too competitive.
+Terms that attract the wrong audience (consumer, creator, or wrong context):
 
-- `youtube channel` (creator audience, not business)
+- `youtube channel growth` (creator, not agency)
 - `video editing software` (DIY, not our product)
-- `film production` (wrong industry entirely)
-- `music video production` (wrong context)
-- `wedding videography` (wrong vertical)
-- `stock video` (wrong context)
-- `video game` (obvious)
+- `wedding videography`
+- `music video production`
+- `film production`
+- `stock footage`
+- `video game`
+- `how to go viral` (wrong intent entirely)
+
+---
+
+## Content Gaps (Priority Opportunities)
+
+Terms where existing content is weak or missing the agency-professional angle:
+
+1. **"How to produce client video remotely"** — almost nothing written for agency producers specifically
+2. **"How to get clients to record video"** — operational problem with no good solutions content
+3. **"Scale video production on retainer"** — huge gap; nobody writing about agency video economics
+4. **"Remote video capture for agencies"** — underserved keyword with clear commercial intent
+5. **"Video production workflow for multiple clients"** — operational how-to with no real competition
 
 ---
 
@@ -231,16 +238,4 @@ These are high-volume terms we shouldn't chase — wrong audience or too competi
 
 ---
 
-## Content Gaps (Priority Opportunities)
-
-Based on what competitors are ranking for that we don't have content for yet:
-
-1. "How to start video marketing" — high volume, informational, perfect for us
-2. "Video content ideas for small business" — popular listicle format
-3. "How to look good on camera" — emotional barrier we address directly
-4. "LinkedIn video strategy" — our primary distribution channel for leads
-5. "How to outsource video editing" — direct purchase intent
-
----
-
-*Update this file quarterly with new keyword research. Add rankings once GSC is connected.*
+*Update quarterly. Add rankings once GSC is connected.*
