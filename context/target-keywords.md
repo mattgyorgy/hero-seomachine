@@ -1,241 +1,174 @@
-# Hero Network Target Keywords
+# Hero Network — Target Keywords & Content Strategy
 
-Keyword research organized by cluster. Written for the agency producer ICP — professionals on retainer to deliver video content for multiple clients.
+> **Purpose:** Provides the SEO content machine with prioritized keyword clusters, search intent mapping, and content type recommendations. Use this to select topics, match keywords to the right article format, and ensure content strategy alignment with Hero Network's positioning.
 
 ---
 
 ## Keyword Strategy Overview
 
-**Primary ICP**: Agency producers and content managers at full-service marketing agencies delivering video on retainer.
+Hero Network's SEO content targets three audiences across the funnel: agencies, freelancers, and in-house marketing teams. Content should always position Hero Network as a **complete remote video production platform** (not just a recorder), emphasizing the full workflow: recording → Smart Library → professional editing → delivery.
 
-**Content Goal**: Rank for keywords that agency-side video professionals search when looking for production tools, remote video workflows, and ways to scale client video delivery.
-
-**Competitive Approach**: Starting from zero domain authority — target long-tail, high-intent, lower-competition terms first. Build topical authority in the "agency video production" space before competing on broader terms.
-
-**Key Insight**: Most video marketing content targets the end business owner. Almost nothing is written specifically for the agency professional delivering video on behalf of clients. That's our gap.
+**Content format:** Blog posts only (no landing pages, comparison pages, or standalone FAQ pages).
 
 ---
 
-## Pillar Cluster 1: Remote Video Production for Agencies
+## BOFU — Bottom of Funnel (Decision & Purchase)
 
-**Pillar Keyword**: `remote video production for agencies`
+> Highest conversion potential. Prospects actively evaluating solutions.
 
-### Cluster Keywords
-- `how to produce client video remotely`
-- `remote video production workflow`
-- `client video production without site visits`
-- `how to get client video footage remotely`
-- `remote video capture for marketing agencies`
-- `agency video production at scale`
-- `how to scale video production for clients`
-- `video production retainer workflow`
+### Competitor Comparison Keywords
 
-### Long-Tail Variations
-- `how to deliver video retainer work remotely`
-- `how marketing agencies produce video without a crew`
-- `remote video production tools for agencies`
-- `how to manage client video projects remotely`
-- `video production for multiple clients simultaneously`
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| Riverside alternative | Alternative seeking | "Best Riverside Alternatives for [Use Case]" | Critical |
+| Squadcast alternative | Alternative seeking | "Best Squadcast Alternatives for [Use Case]" | Critical |
+| Descript alternative | Alternative seeking | "Best Descript Alternatives for [Use Case]" | Critical |
+| Riverside vs Squadcast | Direct comparison | "Riverside vs Squadcast: Which Is Better for [Audience]?" | Critical |
+| Riverside vs Descript | Direct comparison | "Riverside vs Descript: Honest Comparison for [Year]" | Critical |
+| Descript vs Squadcast | Direct comparison | "Descript vs Squadcast: Which Remote Recording Tool Wins?" | High |
+| Riverside reviews [year] | Social proof | "Riverside Review [Year]: Honest Pros, Cons, and Alternatives" | High |
+| Descript reviews [year] | Social proof | "Descript Review [Year]: Is It Worth It?" | High |
 
-### Intent Classification
-- Informational: "how to produce client video remotely"
-- Commercial: "remote video production tools for agencies" — evaluating solutions
-- Transactional: "remote video capture platform for agencies" — ready to buy
+**Content angle:** These posts should compare competitors fairly, acknowledge their strengths, then position Hero Network as the alternative that goes beyond recording into full production. The key differentiator: competitors stop at recording — Hero Network includes asset management, professional editing, and delivery.
 
----
+### Use-Case Decision Keywords
 
-## Pillar Cluster 2: Scaling Video Retainers
-
-**Pillar Keyword**: `how to scale video production retainer`
-
-### Cluster Keywords
-- `video retainer agency`
-- `how to offer video as a service agency`
-- `video production on retainer`
-- `agency video service offering`
-- `how to add video to marketing retainer`
-- `video production capacity agency`
-- `managing multiple video clients`
-- `video content at scale for agencies`
-
-### Long-Tail Variations
-- `how to offer video production on retainer`
-- `agency video production pricing model`
-- `how many video clients can one producer handle`
-- `scaling video production without hiring`
-- `how to grow video revenue as a marketing agency`
-
-### Intent Classification
-- Informational: "how to offer video as a service" — figuring out the model
-- Commercial: "video production tools for retainer agencies" — evaluating tools
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| best remote recording for interviews | Use-case specific | "Best Remote Recording Tools for Professional Interviews" | High |
+| best remote recording for testimonials | Use-case specific | "How to Record Professional Customer Testimonials Remotely" | High |
+| best remote recording for agencies | Audience specific | "Best Remote Video Production Tools for Marketing Agencies" | Critical |
+| best video editing for agencies | Audience specific | "Best Video Editing Solutions for Agencies in [Year]" | High |
+| best video production platform | Category evaluation | "Best Video Production Platforms Compared: [Year] Guide" | High |
 
 ---
 
-## Pillar Cluster 3: Getting Client Video Footage
+## MOFU — Middle of Funnel (Consideration & Evaluation)
 
-**Pillar Keyword**: `how to get clients to record video`
+> Solution-aware prospects comparing approaches and evaluating features.
 
-### Cluster Keywords
-- `how to get client video content`
-- `client video recording tips for agencies`
-- `how to brief a client for video recording`
-- `client video capture workflow`
-- `remote client video recording`
-- `getting usable video footage from clients`
-- `how to coach clients on recording video`
-- `client video recording guide`
+### Remote Video Production (Solution-Focused)
 
-### Long-Tail Variations
-- `how to get clients to actually record their videos`
-- `why clients don't send video footage`
-- `client video brief template`
-- `how to simplify video recording for clients`
-- `remote video capture link for clients`
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| remote video production for agencies | Solution discovery | "Remote Video Production for Agencies: The Complete Guide" | Critical |
+| remote video production workflow | Workflow optimization | "How to Build a Scalable Remote Video Production Workflow" | High |
+| high-quality remote video recording | Quality concerns | "How to Get Professional-Quality Video from Remote Recordings" | High |
+| remote recording vs in-person filming | Comparison | "Remote Recording vs. In-Person Filming: When Each Makes Sense" | Medium |
+| remote video production best practices | Educational | "Remote Video Production Best Practices for [Year]" | Medium |
 
-### Intent Classification
-- Informational dominant: solving a specific operational problem
-- Commercial: "tool to simplify client video capture"
+### Video Asset Management & Workflow
 
----
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| video asset management software | Workflow problem | "Video Asset Management for Agencies: Why It Matters" | High |
+| video production workflow automation | Efficiency seeking | "How to Automate Your Video Production Workflow" | High |
+| video production project management | Organization | "Managing Video Projects Across Multiple Clients" | High |
+| video review and approval workflow | Process improvement | "Video Review & Approval: Stop Using Email" | Medium |
+| collaborative video production tools | Team workflow | "Best Collaborative Video Production Tools for Teams" | Medium |
 
-## Pillar Cluster 4: Outsource Video Editing (Agency Context)
+### Freelance Editor Replacement Keywords
 
-**Pillar Keyword**: `outsource video editing for agencies`
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| freelance video editor cost | Price research | "What Does a Freelance Video Editor Cost? [Year] Pricing Guide" | High |
+| how to find a good video editor | Sourcing help | "Finding a Good Video Editor: The Real Cost of DIY Sourcing" | High |
+| video editing outsourcing | Delegation | "Should You Outsource Video Editing? Pros, Cons, and Alternatives" | High |
+| managing freelance video editors | Pain point | "Stop Managing Freelance Editors: A Better Approach" | Medium |
+| video editing turnaround time | Speed concern | "How Long Does Professional Video Editing Take?" | Medium |
 
-### Cluster Keywords
-- `outsource video editing`
-- `video editing service for agencies`
-- `white label video editing`
-- `agency video editing workflow`
-- `how to outsource video post-production`
-- `video editing on demand for agencies`
-- `human video editing service`
-- `professional video editing service for marketing agencies`
+### DIY Editing Comparison Keywords
 
-### Long-Tail Variations
-- `outsource video editing for multiple clients`
-- `video editing service that handles client work`
-- `how agencies outsource video editing`
-- `best video editing service for marketing agencies`
-- `done for you video editing agency`
-
-### Intent Classification
-- Commercial dominant: actively looking for a service
-- Transactional: "outsource video editing" — ready to buy
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| CapCut vs professional editing | Tool comparison | "CapCut vs. Professional Editing: When DIY Isn't Enough" | Medium |
+| Descript for agencies | Tool evaluation | "Is Descript Enough for Agency Video Production?" | High |
+| video editing for non-editors | Skill gap | "Professional Video Content Without Editing Skills" | Medium |
+| time spent editing videos | Pain awareness | "How Much Time Are You Actually Spending on Video Editing?" | High |
 
 ---
 
-## Pillar Cluster 5: Video Production Tools for Agencies
+## TOFU — Top of Funnel (Awareness & Education)
 
-**Pillar Keyword**: `video production tools for marketing agencies`
+> Broad awareness content. Prospects don't know they need Hero Network yet.
 
-### Cluster Keywords
-- `best video tools for agencies`
-- `agency video production software`
-- `video workflow tools for content agencies`
-- `frame.io alternatives`
-- `video production platform for agencies`
-- `tools for managing client video production`
-- `remote video production software`
+### Agency Video Content Keywords
 
-### Long-Tail Variations
-- `video production stack for marketing agencies`
-- `tools agencies use for video content`
-- `how to build a video production workflow for clients`
-- `video project management for agencies`
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| video content strategy for agencies | Strategic planning | "Video Content Strategy for Agencies: A Practical Guide" | High |
+| how to scale video production | Growth challenge | "How to Scale Video Production Without Scaling Your Team" | Critical |
+| agency video production bottlenecks | Pain identification | "The 5 Video Production Bottlenecks Killing Your Agency's Growth" | Critical |
+| client video testimonials | Use case | "How to Get More Client Testimonials (Without the Production Hassle)" | High |
+| video content for B2B marketing | Channel strategy | "Why B2B Companies Need More Video (And How to Produce It)" | Medium |
 
-### Intent Classification
-- Commercial: comparing tools, evaluating options
-- Transactional: "video production platform for agencies" — ready to buy
+### Remote Work & Production Keywords
 
----
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| remote video production tips | Educational | "Remote Video Production Tips That Actually Work" | Medium |
+| how to record professional interviews remotely | How-to | "How to Record Professional Remote Interviews: Step-by-Step" | High |
+| remote content creation tools | Tool discovery | "Remote Content Creation Tools Every Agency Needs in [Year]" | Medium |
+| virtual video production | Trend awareness | "Virtual Video Production: The Future of Agency Content" | Medium |
 
-## Pillar Cluster 6: Authentic/Conversational Video (Agency Angle)
+### Cost & Efficiency Keywords
 
-**Pillar Keyword**: `conversational video content for clients`
-
-### Cluster Keywords
-- `how to create authentic video for clients`
-- `unscripted client video`
-- `thought leadership video for agency clients`
-- `how to get natural-looking client video`
-- `interview-style video for business clients`
-- `conversation-based video marketing`
-
-### Long-Tail Variations
-- `how agencies create thought leadership video for clients`
-- `authentic client video without a production crew`
-- `how to produce executive video content remotely`
-- `interview-based video content for b2b clients`
-
-### Intent Classification
-- Informational: understanding the format
-- Commercial: looking for a service that delivers this
+| Keyword Cluster | Search Intent | Content Type | Priority |
+|----------------|--------------|-------------|----------|
+| video production cost breakdown | Budget research | "What Does Video Production Actually Cost? A Real Breakdown" | High |
+| reduce video production costs | Cost reduction | "How to Cut Video Production Costs Without Sacrificing Quality" | High |
+| video production ROI | Business case | "Measuring Video Production ROI: A Guide for Agency Owners" | Medium |
+| in-house vs outsourced video production | Decision framework | "In-House vs. Outsourced Video Production: The Real Math" | Medium |
 
 ---
 
-## BOFU (Bottom of Funnel) Keywords
+## Competitor Content Gaps
 
-High-intent — actively evaluating or ready to buy.
+Based on competitor analysis, these are content areas where Riverside, Squadcast, and Descript are weak — opportunities for Hero Network to own the narrative:
 
-- `remote video production platform`
-- `video production service for agencies`
-- `outsource video editing for marketing agencies`
-- `done for you video production`
-- `video retainer tool`
-- `client video capture platform`
-- `hero network pricing`
-- `hero network review`
-- `remote video capture tool`
-- `video editing service for content agencies`
+| Gap | Why Competitors Miss It | Hero Network Angle |
+|-----|------------------------|-------------------|
+| **Full workflow content** (beyond recording) | Competitors focus on recording features only | Hero Network covers recording → editing → delivery |
+| **Agency scaling content** | Competitors target individual creators, not agencies | Hero Network's Client/Project hierarchy is built for agencies |
+| **Asset management / DAM content** | No competitor has a Smart Library equivalent | Smart Library is a unique differentiator |
+| **Editing cost comparison content** | Competitors don't offer editing, so they don't write about it | $99/project vs. $300-500 freelance is compelling math |
+| **"Replace your stack" content** | Competitors position as additions to the stack | Hero Network replaces Zoom + Dropbox + freelancers + PM tools |
+| **Guest experience content** | Competitors require apps or accounts | Zero-friction mobile browser Guest link is a unique selling point |
 
 ---
 
-## Competitor / Alternative Keywords
+## Keyword-to-Content Mapping Rules
 
-- `frame.io alternatives`
-- `descript alternatives for agencies`
-- `wistia alternatives`
-- `video production agency alternative`
-- `loom alternatives for client video`
-
----
-
-## Negative / Avoid Keywords
-
-Terms that attract the wrong audience (consumer, creator, or wrong context):
-
-- `youtube channel growth` (creator, not agency)
-- `video editing software` (DIY, not our product)
-- `wedding videography`
-- `music video production`
-- `film production`
-- `stock footage`
-- `video game`
-- `how to go viral` (wrong intent entirely)
+| If the keyword is... | Write this type of article... | Reference these context docs... |
+|---------------------|------------------------------|-------------------------------|
+| "[Competitor] alternative" | Alternatives listicle with Hero Network as the recommended option | editor-capabilities.md, pricing-details.md |
+| "[Competitor] vs [Competitor]" | Fair comparison post, positioning Hero Network as the next step | integrations.md (replacement positioning), editor-capabilities.md |
+| "how to [do something]" | Step-by-step guide featuring Hero Network's workflow | platform-workflow.md |
+| "best [tool] for [audience]" | Curated list post with Hero Network included | All docs — match to audience segment |
+| "[pain point] for agencies" | Problem-solution post leading to Hero Network | customer-proof.md, platform-workflow.md |
+| "[cost/pricing] of [category]" | Cost breakdown post with ROI comparison | pricing-details.md |
+| "video production [workflow/tips]" | Educational guide with Hero Network as the example | platform-workflow.md, editor-capabilities.md |
 
 ---
 
-## Content Gaps (Priority Opportunities)
+## Seasonal & Trending Opportunities
 
-Terms where existing content is weak or missing the agency-professional angle:
-
-1. **"How to produce client video remotely"** — almost nothing written for agency producers specifically
-2. **"How to get clients to record video"** — operational problem with no good solutions content
-3. **"Scale video production on retainer"** — huge gap; nobody writing about agency video economics
-4. **"Remote video capture for agencies"** — underserved keyword with clear commercial intent
-5. **"Video production workflow for multiple clients"** — operational how-to with no real competition
-
----
-
-## Current Rankings
-
-*To be populated once Google Search Console is connected and heronetwork.io has indexed blog content.*
-
-| Keyword | Position | URL | Last Checked |
-|---------|----------|-----|--------------|
-| TBD | — | — | — |
+| Timing | Opportunity | Content Angle |
+|--------|------------|--------------|
+| **January** | New year planning, budget allocation | "Video Production Budget Planning for [Year]" |
+| **March–April** | Q2 planning, agency growth season | "Scale Your Agency's Video Output This Quarter" |
+| **September** | Q4 planning, end-of-year content push | "How to Produce More Video Content Before Year-End" |
+| **Ongoing** | Remote work trends | Any "remote video production" content |
+| **Product launches** | When AI editing features ship | Update all comparison content to highlight AI capabilities |
 
 ---
 
-*Update quarterly. Add rankings once GSC is connected.*
+## Content Guidelines for Keyword Targeting
+
+- **One primary keyword per blog post** — don't try to rank for multiple unrelated keywords in one article
+- **Match intent to content depth** — BOFU comparison posts should be thorough and specific; TOFU awareness posts can be broader
+- **Always include Hero Network organically** — don't force-fit the product where it doesn't belong, but ensure every article naturally leads to the platform
+- **Use exact terminology from platform-workflow.md** — Host, Guest, Client, Project, Smart Library, Guest link
+- **Reference pricing-details.md for any economic claims** — never estimate or round pricing numbers
+- **Pull case study templates from customer-proof.md** — use real data when available, omit social proof when not (don't fabricate)
+- **Prioritize BOFU competitor content first** — highest conversion potential, fastest SEO wins
